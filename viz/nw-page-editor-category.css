@@ -1,0 +1,24 @@
+[value=name] ~ .Coords {
+  fill-opacity: 0.3;
+  fill: green;
+}
+
+[value=surname] ~ .Coords {
+  fill-opacity: 0.3;
+  fill: red;
+}
+
+[value=location] ~ .Coords {
+  fill-opacity: 0.3;
+  fill: orange;
+}
+
+[value=occupation] ~ .Coords {
+  fill-opacity: 0.3;
+  fill: blue;
+}
+
+[value=state] ~ .Coords {
+  fill-opacity: 0.3;
+  fill: magenta;
+}

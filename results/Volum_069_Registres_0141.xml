@@ -1,0 +1,3106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>GeneraPageCompeition</Creator>
+    <Created>2017-12-01T11:07:08Z</Created>
+    <LastChange>2017-12-01T11:07:08Z</LastChange>
+  </Metadata>
+  <Page imageFilename="Volum_069_Registres_0141.jpg" imageHeight="3794" imageWidth="2690">
+    <Property key="idPage" value="10491"/>
+    <TextRegion id="Record1">
+      <Coords points="384,320.61 2044,320.61 2044,488.149 384,488.149"/>
+      <TextLine id="Record1_Line0">
+        <Coords points="384,320.61 2044,320.61 2044,399.819 384,399.819"/>
+        <Word id="Record1_Line0_Word0">
+          <Property conf="0.999821" key="category" value="other"/>
+          <Property conf="0.999821" key="person" value="none"/>
+          <Coords points="416.64,320.61 575.18,320.61 575.18,399.819 416.64,399.819"/>
+          <TextEquiv conf="0.999821">
+            <Unicode>Dimars</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line0_Word1">
+          <Property conf="0.999936" key="category" value="other"/>
+          <Property conf="0.999936" key="person" value="none"/>
+          <Coords points="612.483,320.61 621.809,320.61 621.809,399.819 612.483,399.819"/>
+          <TextEquiv conf="0.999936">
+            <Unicode>a</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line0_Word2">
+          <Property conf="0.999591" key="category" value="other"/>
+          <Property conf="0.999591" key="person" value="none"/>
+          <Coords points="659.112,320.61 696.416,320.61 696.416,399.819 659.112,399.819"/>
+          <TextEquiv conf="0.999591">
+            <Unicode>18</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line0_Word3">
+          <Property conf="0.999992" key="category" value="other"/>
+          <Property conf="0.999992" key="person" value="none"/>
+          <Coords points="743.045,320.61 864.281,320.61 864.281,399.819 743.045,399.819"/>
+          <TextEquiv conf="0.999992">
+            <Unicode>rebere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line0_Word4">
+          <Property conf="0.99975" key="category" value="other"/>
+          <Property conf="0.99975" key="person" value="none"/>
+          <Coords points="892.258,320.61 929.562,320.61 929.562,399.819 892.258,399.819"/>
+          <TextEquiv conf="0.99975">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line0_Word5">
+          <Property conf="0.999908" key="category" value="name"/>
+          <Property conf="0.999908" key="person" value="husband"/>
+          <Coords points="948.214,320.61 1041.47,320.61 1041.47,399.819 948.214,399.819"/>
+          <TextEquiv conf="0.999908">
+            <Unicode>Joan</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line0_Word6">
+          <Property conf="0.985217" key="category" value="surname"/>
+          <Property conf="0.985217" key="person" value="husband"/>
+          <Coords points="1078.78,320.61 1265.29,320.61 1265.29,399.819 1078.78,399.819"/>
+          <TextEquiv conf="0.985217">
+            <Unicode>Taulada</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line0_Word7">
+          <Property conf="0.997393" key="category" value="occupation"/>
+          <Property conf="0.997393" key="person" value="husband"/>
+          <Coords points="1302.6,320.61 1433.16,320.61 1433.16,399.819 1302.6,399.819"/>
+          <TextEquiv conf="0.997393">
+            <Unicode>ferrer</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line0_Word8">
+          <Property conf="0.999296" key="category" value="other"/>
+          <Property conf="0.999296" key="person" value="none"/>
+          <Coords points="1461.13,320.61 1517.09,320.61 1517.09,399.819 1461.13,399.819"/>
+          <TextEquiv conf="0.999296">
+            <Unicode>del</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line0_Word9">
+          <Property conf="0.999857" key="category" value="location"/>
+          <Property conf="0.999857" key="person" value="husband"/>
+          <Coords points="1535.74,320.61 1647.65,320.61 1647.65,399.819 1535.74,399.819"/>
+          <TextEquiv conf="0.999857">
+            <Unicode>regne</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line0_Word10">
+          <Property conf="0.999243" key="category" value="location"/>
+          <Property conf="0.999243" key="person" value="husband"/>
+          <Coords points="1656.98,320.61 1703.61,320.61 1703.61,399.819 1656.98,399.819"/>
+          <TextEquiv conf="0.999243">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line0_Word11">
+          <Property conf="0.999603" key="category" value="location"/>
+          <Property conf="0.999603" key="person" value="husband"/>
+          <Coords points="1722.26,320.61 1852.82,320.61 1852.82,399.819 1722.26,399.819"/>
+          <TextEquiv conf="0.999603">
+            <Unicode>frança</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line0_Word12">
+          <Property conf="0.999934" key="category" value="other"/>
+          <Property conf="0.999934" key="person" value="none"/>
+          <Coords points="1880.8,320.61 2040.5,320.61 2040.5,399.819 1880.8,399.819"/>
+          <TextEquiv conf="0.999934">
+            <Unicode>habitat</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record1_Line1">
+        <Coords points="423,405.822 1854,405.822 1854,488.149 423,488.149"/>
+        <Word id="Record1_Line1_Word0">
+          <Property conf="0.999945" key="category" value="other"/>
+          <Property conf="0.999945" key="person" value="none"/>
+          <Coords points="436.317,405.822 475.058,405.822 475.058,488.149 436.317,488.149"/>
+          <TextEquiv conf="0.999945">
+            <Unicode>en</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line1_Word1">
+          <Property conf="0.99996" key="category" value="location"/>
+          <Property conf="0.99996" key="person" value="husband"/>
+          <Coords points="504.114,405.822 630.023,405.822 630.023,488.149 504.114,488.149"/>
+          <TextEquiv conf="0.99996">
+            <Unicode>Bara</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line1_Word2">
+          <Property conf="0.999978" key="category" value="other"/>
+          <Property conf="0.999978" key="person" value="none"/>
+          <Coords points="649.393,405.822 688.135,405.822 688.135,488.149 649.393,488.149"/>
+          <TextEquiv conf="0.999978">
+            <Unicode>ab</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line1_Word3">
+          <Property conf="0.999916" key="category" value="name"/>
+          <Property conf="0.999916" key="person" value="wife"/>
+          <Coords points="717.19,405.822 930.266,405.822 930.266,488.149 717.19,488.149"/>
+          <TextEquiv conf="0.999916">
+            <Unicode>Hieronyma</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line1_Word4">
+          <Property conf="0.982124" key="category" value="state"/>
+          <Property conf="0.982124" key="person" value="wife"/>
+          <Coords points="959.322,405.822 1065.86,405.822 1065.86,488.149 959.322,488.149"/>
+          <TextEquiv conf="0.982124">
+            <Unicode>viuda</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line1_Word5">
+          <Property conf="0.999882" key="category" value="other"/>
+          <Property conf="0.999882" key="person" value="none"/>
+          <Coords points="1114.29,405.822 1153.03,405.822 1153.03,488.149 1114.29,488.149"/>
+          <TextEquiv conf="0.999882">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line1_Word6">
+          <Property conf="0.999803" key="category" value="name"/>
+          <Property conf="0.999803" key="person" value="other_person"/>
+          <Coords points="1172.4,405.822 1259.57,405.822 1259.57,488.149 1172.4,488.149"/>
+          <TextEquiv conf="0.999803">
+            <Unicode>Joan</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line1_Word7">
+          <Property conf="0.958481" key="category" value="surname"/>
+          <Property conf="0.958481" key="person" value="other_person"/>
+          <Coords points="1288.62,405.822 1472.64,405.822 1472.64,488.149 1288.62,488.149"/>
+          <TextEquiv conf="0.958481">
+            <Unicode>Lleonart</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line1_Word8">
+          <Property conf="0.996289" key="category" value="occupation"/>
+          <Property conf="0.996289" key="person" value="wife"/>
+          <Coords points="1492.01,405.822 1627.61,405.822 1627.61,488.149 1492.01,488.149"/>
+          <TextEquiv conf="0.996289">
+            <Unicode>ferrer</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line1_Word9">
+          <Property conf="0.998798" key="category" value="other"/>
+          <Property conf="0.998798" key="person" value="none"/>
+          <Coords points="1656.66,405.822 1685.72,405.822 1685.72,488.149 1656.66,488.149"/>
+          <TextEquiv conf="0.998798">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record1_Line1_Word10">
+          <Property conf="0.998812" key="category" value="location"/>
+          <Property conf="0.998812" key="person" value="wife"/>
+          <Coords points="1705.09,405.822 1831,405.822 1831,488.149 1705.09,488.149"/>
+          <TextEquiv conf="0.998812">
+            <Unicode>Bara</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Record2">
+      <Coords points="396,494.115 2051,494.115 2051,734.534 396,734.534"/>
+      <TextLine id="Record2_Line0">
+        <Coords points="396,494.115 2034,494.115 2034,575.408 396,575.408"/>
+        <Word id="Record2_Line0_Word0">
+          <Property conf="0.999568" key="category" value="other"/>
+          <Property conf="0.999568" key="person" value="none"/>
+          <Coords points="412.545,494.115 473.636,494.115 473.636,575.408 412.545,575.408"/>
+          <TextEquiv conf="0.999568">
+            <Unicode>Dit</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line0_Word1">
+          <Property conf="0.999909" key="category" value="other"/>
+          <Property conf="0.999909" key="person" value="none"/>
+          <Coords points="494,494.115 544.909,494.115 544.909,575.408 494,575.408"/>
+          <TextEquiv conf="0.999909">
+            <Unicode>dia</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line0_Word2">
+          <Property conf="0.999966" key="category" value="other"/>
+          <Property conf="0.999966" key="person" value="none"/>
+          <Coords points="565.273,494.115 677.273,494.115 677.273,575.408 565.273,575.408"/>
+          <TextEquiv conf="0.999966">
+            <Unicode>rebere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line0_Word3">
+          <Property conf="0.99843" key="category" value="other"/>
+          <Property conf="0.99843" key="person" value="none"/>
+          <Coords points="707.818,494.115 738.364,494.115 738.364,575.408 707.818,575.408"/>
+          <TextEquiv conf="0.99843">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line0_Word4">
+          <Property conf="0.99941" key="category" value="name"/>
+          <Property conf="0.99941" key="person" value="husband"/>
+          <Coords points="748.545,494.115 942,494.115 942,575.408 748.545,575.408"/>
+          <TextEquiv conf="0.99941">
+            <Unicode>francesch</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line0_Word5">
+          <Property conf="0.855573" key="category" value="surname"/>
+          <Property conf="0.855573" key="person" value="husband"/>
+          <Coords points="972.545,494.115 1096,494.115 1096,575.408 972.545,575.408"/>
+          <TextEquiv conf="0.855573">
+            <Unicode>fabrer</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line0_Word6">
+          <Property conf="0.991228" key="category" value="occupation"/>
+          <Property conf="0.991228" key="person" value="husband"/>
+          <Coords points="1116.36,494.115 1289.45,494.115 1289.45,575.408 1116.36,575.408"/>
+          <TextEquiv conf="0.991228">
+            <Unicode>mariner</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line0_Word7">
+          <Property conf="0.999823" key="category" value="other"/>
+          <Property conf="0.999823" key="person" value="none"/>
+          <Coords points="1320,494.115 1350.55,494.115 1350.55,575.408 1320,575.408"/>
+          <TextEquiv conf="0.999823">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line0_Word8">
+          <Property conf="0.999034" key="category" value="location"/>
+          <Property conf="0.999034" key="person" value="husband"/>
+          <Coords points="1370.91,494.115 1503.27,494.115 1503.27,575.408 1370.91,575.408"/>
+          <TextEquiv conf="0.999034">
+            <Unicode>Sitges</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line0_Word9">
+          <Property conf="0.99978" key="category" value="other"/>
+          <Property conf="0.99978" key="person" value="none"/>
+          <Coords points="1523.64,494.115 1605.09,494.115 1605.09,575.408 1523.64,575.408"/>
+          <TextEquiv conf="0.99978">
+            <Unicode>fill</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line0_Word10">
+          <Property conf="0.999971" key="category" value="other"/>
+          <Property conf="0.999971" key="person" value="none"/>
+          <Coords points="1625.45,494.115 1645.82,494.115 1645.82,575.408 1625.45,575.408"/>
+          <TextEquiv conf="0.999971">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line0_Word11">
+          <Property conf="0.999759" key="category" value="name"/>
+          <Property conf="0.999759" key="person" value="husbands_father"/>
+          <Coords points="1666.18,494.115 1859.64,494.115 1859.64,575.408 1666.18,575.408"/>
+          <TextEquiv conf="0.999759">
+            <Unicode>francesch</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line0_Word12">
+          <Property conf="0.963464" key="category" value="surname"/>
+          <Property conf="0.963464" key="person" value="husbands_father"/>
+          <Coords points="1880,494.115 2012.36,494.115 2012.36,575.408 1880,575.408"/>
+          <TextEquiv conf="0.963464">
+            <Unicode>fabrer</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record2_Line1">
+        <Coords points="427,575.171 2051,575.171 2051,660.209 427,660.209"/>
+        <Word id="Record2_Line1_Word0">
+          <Property conf="0.999464" key="category" value="occupation"/>
+          <Property conf="0.999464" key="person" value="husbands_father"/>
+          <Coords points="415.02,575.171 585.407,575.171 585.407,660.209 415.02,660.209"/>
+          <TextEquiv conf="0.999464">
+            <Unicode>mariner</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line1_Word1">
+          <Property conf="0.999909" key="category" value="other"/>
+          <Property conf="0.999909" key="person" value="none"/>
+          <Coords points="606.705,575.171 757.125,575.171 757.125,660.209 606.705,660.209"/>
+          <TextEquiv conf="0.999909">
+            <Unicode>defunct</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line1_Word2">
+          <Property conf="0.999979" key="category" value="other"/>
+          <Property conf="0.999979" key="person" value="none"/>
+          <Coords points="778.423,575.171 799.721,575.171 799.721,660.209 778.423,660.209"/>
+          <TextEquiv conf="0.999979">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line1_Word3">
+          <Property conf="0.999846" key="category" value="other"/>
+          <Property conf="0.999846" key="person" value="none"/>
+          <Coords points="821.02,575.171 863.616,575.171 863.616,660.209 821.02,660.209"/>
+          <TextEquiv conf="0.999846">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line1_Word4">
+          <Property conf="0.996631" key="category" value="name"/>
+          <Property conf="0.996631" key="person" value="husbands_mother"/>
+          <Coords points="884.915,575.171 1055.3,575.171 1055.3,660.209 884.915,660.209"/>
+          <TextEquiv conf="0.996631">
+            <Unicode>Tomasa</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line1_Word5">
+          <Property conf="0.999989" key="category" value="other"/>
+          <Property conf="0.999989" key="person" value="none"/>
+          <Coords points="1087.25,575.171 1129.85,575.171 1129.85,660.209 1087.25,660.209"/>
+          <TextEquiv conf="0.999989">
+            <Unicode>ab</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line1_Word6">
+          <Property conf="0.999904" key="category" value="name"/>
+          <Property conf="0.999904" key="person" value="wife"/>
+          <Coords points="1151.14,575.171 1385.43,575.171 1385.43,660.209 1151.14,660.209"/>
+          <TextEquiv conf="0.999904">
+            <Unicode>Hieronyma</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line1_Word7">
+          <Property conf="0.99954" key="category" value="state"/>
+          <Property conf="0.99954" key="person" value="wife"/>
+          <Coords points="1406.72,575.171 1566.46,575.171 1566.46,660.209 1406.72,660.209"/>
+          <TextEquiv conf="0.99954">
+            <Unicode>donsella</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line1_Word8">
+          <Property conf="0.998106" key="category" value="other"/>
+          <Property conf="0.998106" key="person" value="none"/>
+          <Coords points="1587.76,575.171 1683.6,575.171 1683.6,660.209 1587.76,660.209"/>
+          <TextEquiv conf="0.998106">
+            <Unicode>filla</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line1_Word9">
+          <Property conf="0.999875" key="category" value="other"/>
+          <Property conf="0.999875" key="person" value="none"/>
+          <Coords points="1715.55,575.171 1747.5,575.171 1747.5,660.209 1715.55,660.209"/>
+          <TextEquiv conf="0.999875">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line1_Word10">
+          <Property conf="0.999851" key="category" value="name"/>
+          <Property conf="0.999851" key="person" value="wifes_father"/>
+          <Coords points="1768.8,575.171 1971.13,575.171 1971.13,660.209 1768.8,660.209"/>
+          <TextEquiv conf="0.999851">
+            <Unicode>francesch</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record2_Line2">
+        <Coords points="425,662.297 1051,662.297 1051,734.534 425,734.534"/>
+        <Word id="Record2_Line2_Word0">
+          <Property conf="0.999526" key="category" value="surname"/>
+          <Property conf="0.999526" key="person" value="wifes_father"/>
+          <Coords points="375.192,662.297 539.333,662.297 539.333,734.534 375.192,734.534"/>
+          <TextEquiv conf="0.999526">
+            <Unicode>Robert</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line2_Word1">
+          <Property conf="0.999371" key="category" value="occupation"/>
+          <Property conf="0.999371" key="person" value="wifes_father"/>
+          <Coords points="566.501,662.297 675.174,662.297 675.174,734.534 566.501,734.534"/>
+          <TextEquiv conf="0.999371">
+            <Unicode>pages</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line2_Word2">
+          <Property conf="0.999995" key="category" value="other"/>
+          <Property conf="0.999995" key="person" value="none"/>
+          <Coords points="711.398,662.297 729.51,662.297 729.51,734.534 711.398,734.534"/>
+          <TextEquiv conf="0.999995">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line2_Word3">
+          <Property conf="0.999968" key="category" value="other"/>
+          <Property conf="0.999968" key="person" value="none"/>
+          <Coords points="756.678,662.297 783.846,662.297 783.846,734.534 756.678,734.534"/>
+          <TextEquiv conf="0.999968">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record2_Line2_Word4">
+          <Property conf="0.999254" key="category" value="name"/>
+          <Property conf="0.999254" key="person" value="wifes_mother"/>
+          <Coords points="811.014,662.297 1028.36,662.297 1028.36,734.534 811.014,734.534"/>
+          <TextEquiv conf="0.999254">
+            <Unicode>Catherina</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Record3">
+      <Coords points="402,739.593 2067,739.593 2067,1109.93 402,1109.93"/>
+      <TextLine id="Record3_Line0">
+        <Coords points="402,739.593 2049,739.593 2049,818.06 402,818.06"/>
+        <Word id="Record3_Line0_Word0">
+          <Property conf="0.979983" key="category" value="other"/>
+          <Property conf="0.979983" key="person" value="none"/>
+          <Coords points="420.506,739.593 589.7,739.593 589.7,818.06 420.506,818.06"/>
+          <TextEquiv conf="0.979983">
+            <Unicode>Dimecres</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line0_Word1">
+          <Property conf="0.999982" key="category" value="other"/>
+          <Property conf="0.999982" key="person" value="none"/>
+          <Coords points="621.424,739.593 631.998,739.593 631.998,818.06 621.424,818.06"/>
+          <TextEquiv conf="0.999982">
+            <Unicode>a</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line0_Word2">
+          <Property conf="0.998272" key="category" value="other"/>
+          <Property conf="0.998272" key="person" value="none"/>
+          <Coords points="663.722,739.593 695.446,739.593 695.446,818.06 663.722,818.06"/>
+          <TextEquiv conf="0.998272">
+            <Unicode>19</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line0_Word3">
+          <Property conf="0.999978" key="category" value="other"/>
+          <Property conf="0.999978" key="person" value="none"/>
+          <Coords points="737.745,739.593 854.066,739.593 854.066,818.06 737.745,818.06"/>
+          <TextEquiv conf="0.999978">
+            <Unicode>rebere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line0_Word4">
+          <Property conf="0.999653" key="category" value="other"/>
+          <Property conf="0.999653" key="person" value="none"/>
+          <Coords points="885.79,739.593 917.514,739.593 917.514,818.06 885.79,818.06"/>
+          <TextEquiv conf="0.999653">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line0_Word5">
+          <Property conf="0.998848" key="category" value="name"/>
+          <Property conf="0.998848" key="person" value="husband"/>
+          <Coords points="928.088,739.593 1183.2,739.593 1183.2,818.06 928.088,818.06"/>
+          <TextEquiv conf="0.998848">
+            <Unicode>Montserrat</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line0_Word6">
+          <Property conf="0.999239" key="category" value="surname"/>
+          <Property conf="0.999239" key="person" value="husband"/>
+          <Coords points="1193.78,739.593 1341.82,739.593 1341.82,818.06 1193.78,818.06"/>
+          <TextEquiv conf="0.999239">
+            <Unicode>Rocha</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line0_Word7">
+          <Property conf="0.997832" key="category" value="occupation"/>
+          <Property conf="0.997832" key="person" value="husband"/>
+          <Coords points="1362.97,739.593 1532.16,739.593 1532.16,818.06 1362.97,818.06"/>
+          <TextEquiv conf="0.997832">
+            <Unicode>traginer</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line0_Word8">
+          <Property conf="0.999842" key="category" value="other"/>
+          <Property conf="0.999842" key="person" value="none"/>
+          <Coords points="1553.31,739.593 1595.61,739.593 1595.61,818.06 1553.31,818.06"/>
+          <TextEquiv conf="0.999842">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line0_Word9">
+          <Property conf="0.99952" key="category" value="location"/>
+          <Property conf="0.99952" key="person" value="husband"/>
+          <Coords points="1616.76,739.593 1733.08,739.593 1733.08,818.06 1616.76,818.06"/>
+          <TextEquiv conf="0.99952">
+            <Unicode>Tona</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line0_Word10">
+          <Property conf="0.998051" key="category" value="location"/>
+          <Property conf="0.998051" key="person" value="husband"/>
+          <Coords points="1754.23,739.593 1891.7,739.593 1891.7,818.06 1754.23,818.06"/>
+          <TextEquiv conf="0.998051">
+            <Unicode>bisbat</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line0_Word11">
+          <Property conf="0.996328" key="category" value="location"/>
+          <Property conf="0.996328" key="person" value="husband"/>
+          <Coords points="1902.28,739.593 1944.58,739.593 1944.58,818.06 1902.28,818.06"/>
+          <TextEquiv conf="0.996328">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line0_Word12">
+          <Property conf="0.999042" key="category" value="location"/>
+          <Property conf="0.999042" key="person" value="husband"/>
+          <Coords points="1955.15,739.593 2039.75,739.593 2039.75,818.06 1955.15,818.06"/>
+          <TextEquiv conf="0.999042">
+            <Unicode>Vich</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record3_Line1">
+        <Coords points="425,831.595 2067,831.595 2067,912.989 425,912.989"/>
+        <Word id="Record3_Line1_Word0">
+          <Property conf="0.999899" key="category" value="other"/>
+          <Property conf="0.999899" key="person" value="none"/>
+          <Coords points="440.077,831.595 626.481,831.595 626.481,912.989 440.077,912.989"/>
+          <TextEquiv conf="0.999899">
+            <Unicode>habitant</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line1_Word1">
+          <Property conf="0.99997" key="category" value="other"/>
+          <Property conf="0.99997" key="person" value="none"/>
+          <Coords points="659.376,831.595 692.27,831.595 692.27,912.989 659.376,912.989"/>
+          <TextEquiv conf="0.99997">
+            <Unicode>en</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line1_Word2">
+          <Property conf="0.999254" key="category" value="location"/>
+          <Property conf="0.999254" key="person" value="husband"/>
+          <Coords points="725.165,831.595 781.361,831.595 781.361,912.989 725.165,912.989"/>
+          <TextEquiv conf="0.999254">
+            <Unicode>St</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line1_Word3">
+          <Property conf="0.898473" key="category" value="location"/>
+          <Property conf="0.898473" key="person" value="husband"/>
+          <Coords points="792.326,831.595 945.835,831.595 945.835,912.989 792.326,912.989"/>
+          <TextEquiv conf="0.898473">
+            <Unicode>Menat</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line1_Word4">
+          <Property conf="0.999769" key="category" value="other"/>
+          <Property conf="0.999769" key="person" value="none"/>
+          <Coords points="967.765,831.595 1044.52,831.595 1044.52,912.989 967.765,912.989"/>
+          <TextEquiv conf="0.999769">
+            <Unicode>fill</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line1_Word5">
+          <Property conf="0.996301" key="category" value="other"/>
+          <Property conf="0.996301" key="person" value="none"/>
+          <Coords points="1066.45,831.595 1099.34,831.595 1099.34,912.989 1066.45,912.989"/>
+          <TextEquiv conf="0.996301">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line1_Word6">
+          <Property conf="0.999905" key="category" value="name"/>
+          <Property conf="0.999905" key="person" value="husbands_father"/>
+          <Coords points="1121.27,831.595 1208.99,831.595 1208.99,912.989 1121.27,912.989"/>
+          <TextEquiv conf="0.999905">
+            <Unicode>Joan</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line1_Word7">
+          <Property conf="0.988978" key="category" value="surname"/>
+          <Property conf="0.988978" key="person" value="husbands_father"/>
+          <Coords points="1241.89,831.595 1395.4,831.595 1395.4,912.989 1241.89,912.989"/>
+          <TextEquiv conf="0.988978">
+            <Unicode>Rocha</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line1_Word8">
+          <Property conf="0.999226" key="category" value="occupation"/>
+          <Property conf="0.999226" key="person" value="husbands_father"/>
+          <Coords points="1417.33,831.595 1548.91,831.595 1548.91,912.989 1417.33,912.989"/>
+          <TextEquiv conf="0.999226">
+            <Unicode>sastre</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line1_Word9">
+          <Property conf="0.999986" key="category" value="other"/>
+          <Property conf="0.999986" key="person" value="none"/>
+          <Coords points="1570.84,831.595 1581.8,831.595 1581.8,912.989 1570.84,912.989"/>
+          <TextEquiv conf="0.999986">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line1_Word10">
+          <Property conf="0.999964" key="category" value="other"/>
+          <Property conf="0.999964" key="person" value="none"/>
+          <Coords points="1614.7,831.595 1636.63,831.595 1636.63,912.989 1614.7,912.989"/>
+          <TextEquiv conf="0.999964">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line1_Word11">
+          <Property conf="0.999335" key="category" value="name"/>
+          <Property conf="0.999335" key="person" value="husbands_mother"/>
+          <Coords points="1658.56,831.595 1812.07,831.595 1812.07,912.989 1658.56,912.989"/>
+          <TextEquiv conf="0.999335">
+            <Unicode>Violant</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line1_Word12">
+          <Property conf="0.999836" key="category" value="other"/>
+          <Property conf="0.999836" key="person" value="none"/>
+          <Coords points="1844.96,831.595 2009.43,831.595 2009.43,912.989 1844.96,912.989"/>
+          <TextEquiv conf="0.999836">
+            <Unicode>defuncts</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record3_Line2">
+        <Coords points="419,928.006 2009,928.006 2009,1012.12 419,1012.12"/>
+        <Word id="Record3_Line2_Word0">
+          <Property conf="0.999982" key="category" value="other"/>
+          <Property conf="0.999982" key="person" value="none"/>
+          <Coords points="396.346,928.006 431.743,928.006 431.743,1012.12 396.346,1012.12"/>
+          <TextEquiv conf="0.999982">
+            <Unicode>ab</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line2_Word1">
+          <Property conf="0.998469" key="category" value="name"/>
+          <Property conf="0.998469" key="person" value="wife"/>
+          <Coords points="454.396,928.006 669.606,928.006 669.606,1012.12 454.396,1012.12"/>
+          <TextEquiv conf="0.998469">
+            <Unicode>Hyacinta</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line2_Word2">
+          <Property conf="0.999193" key="category" value="state"/>
+          <Property conf="0.999193" key="person" value="wife"/>
+          <Coords points="703.586,928.006 884.815,928.006 884.815,1012.12 703.586,1012.12"/>
+          <TextEquiv conf="0.999193">
+            <Unicode>donsella</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line2_Word3">
+          <Property conf="0.999673" key="category" value="other"/>
+          <Property conf="0.999673" key="person" value="none"/>
+          <Coords points="918.795,928.006 1020.74,928.006 1020.74,1012.12 918.795,1012.12"/>
+          <TextEquiv conf="0.999673">
+            <Unicode>filla</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line2_Word4">
+          <Property conf="0.999984" key="category" value="other"/>
+          <Property conf="0.999984" key="person" value="none"/>
+          <Coords points="1054.72,928.006 1088.7,928.006 1088.7,1012.12 1054.72,1012.12"/>
+          <TextEquiv conf="0.999984">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line2_Word5">
+          <Property conf="0.999746" key="category" value="name"/>
+          <Property conf="0.999746" key="person" value="wifes_father"/>
+          <Coords points="1111.35,928.006 1326.56,928.006 1326.56,1012.12 1111.35,1012.12"/>
+          <TextEquiv conf="0.999746">
+            <Unicode>Salvador</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line2_Word6">
+          <Property conf="0.994127" key="category" value="surname"/>
+          <Property conf="0.994127" key="person" value="wifes_father"/>
+          <Coords points="1349.21,928.006 1507.79,928.006 1507.79,1012.12 1349.21,1012.12"/>
+          <TextEquiv conf="0.994127">
+            <Unicode>Carner</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line2_Word7">
+          <Property conf="0.998131" key="category" value="occupation"/>
+          <Property conf="0.998131" key="person" value="wifes_father"/>
+          <Coords points="1530.44,928.006 1655.04,928.006 1655.04,1012.12 1530.44,1012.12"/>
+          <TextEquiv conf="0.998131">
+            <Unicode>pages</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line2_Word8">
+          <Property conf="0.99903" key="category" value="other"/>
+          <Property conf="0.99903" key="person" value="none"/>
+          <Coords points="1677.69,928.006 1711.67,928.006 1711.67,1012.12 1677.69,1012.12"/>
+          <TextEquiv conf="0.99903">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line2_Word9">
+          <Property conf="0.999506" key="category" value="location"/>
+          <Property conf="0.999506" key="person" value="wifes_father"/>
+          <Coords points="1723,928.006 1779.63,928.006 1779.63,1012.12 1723,1012.12"/>
+          <TextEquiv conf="0.999506">
+            <Unicode>St</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line2_Word10">
+          <Property conf="0.99397" key="category" value="location"/>
+          <Property conf="0.99397" key="person" value="wifes_father"/>
+          <Coords points="1790.96,928.006 1905.64,928.006 1905.64,1012.12 1790.96,1012.12"/>
+          <TextEquiv conf="0.99397">
+            <Unicode>feliu</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line2_Word11">
+          <Property conf="0.993434" key="category" value="location"/>
+          <Property conf="0.993434" key="person" value="wifes_father"/>
+          <Coords points="1916.97,928.006 1996.26,928.006 1996.26,1012.12 1916.97,1012.12"/>
+          <TextEquiv conf="0.993434">
+            <Unicode>del</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record3_Line3">
+        <Coords points="418,1014.63 960,1014.63 960,1109.93 418,1109.93"/>
+        <Word id="Record3_Line3_Word0">
+          <Property conf="0.993766" key="category" value="location"/>
+          <Property conf="0.993766" key="person" value="wifes_father"/>
+          <Coords points="432.389,1014.63 547.504,1014.63 547.504,1109.93 432.389,1109.93"/>
+          <TextEquiv conf="0.993766">
+            <Unicode>Reco</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line3_Word1">
+          <Property conf="0.999991" key="category" value="other"/>
+          <Property conf="0.999991" key="person" value="none"/>
+          <Coords points="573.086,1014.63 585.876,1014.63 585.876,1109.93 573.086,1109.93"/>
+          <TextEquiv conf="0.999991">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line3_Word2">
+          <Property conf="0.999901" key="category" value="other"/>
+          <Property conf="0.999901" key="person" value="none"/>
+          <Coords points="624.248,1014.63 662.619,1014.63 662.619,1109.93 624.248,1109.93"/>
+          <TextEquiv conf="0.999901">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record3_Line3_Word3">
+          <Property conf="0.997835" key="category" value="name"/>
+          <Property conf="0.997835" key="person" value="wifes_mother"/>
+          <Coords points="675.41,1014.63 956.802,1014.63 956.802,1109.93 675.41,1109.93"/>
+          <TextEquiv conf="0.997835">
+            <Unicode>Maryangela</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Record4">
+      <Coords points="406,1108.32 2086,1108.32 2086,1386.12 406,1386.12"/>
+      <TextLine id="Record4_Line0">
+        <Coords points="406,1108.32 2053,1108.32 2053,1191.74 406,1191.74"/>
+        <Word id="Record4_Line0_Word0">
+          <Property conf="0.977373" key="category" value="other"/>
+          <Property conf="0.977373" key="person" value="none"/>
+          <Coords points="423.783,1108.32 434.727,1108.32 434.727,1191.74 423.783,1191.74"/>
+          <TextEquiv conf="0.977373">
+            <Unicode>#</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line0_Word1">
+          <Property conf="0.893868" key="category" value="other"/>
+          <Property conf="0.893868" key="person" value="none"/>
+          <Coords points="620.767,1108.32 675.484,1108.32 675.484,1191.74 620.767,1191.74"/>
+          <TextEquiv conf="0.893868">
+            <Unicode>dit</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line0_Word2">
+          <Property conf="0.999685" key="category" value="other"/>
+          <Property conf="0.999685" key="person" value="none"/>
+          <Coords points="697.371,1108.32 752.089,1108.32 752.089,1191.74 697.371,1191.74"/>
+          <TextEquiv conf="0.999685">
+            <Unicode>dia</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line0_Word3">
+          <Property conf="0.999975" key="category" value="other"/>
+          <Property conf="0.999975" key="person" value="none"/>
+          <Coords points="784.919,1108.32 906.666,1108.32 906.666,1191.74 784.919,1191.74"/>
+          <TextEquiv conf="0.999975">
+            <Unicode>rebere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line0_Word4">
+          <Property conf="0.999921" key="category" value="other"/>
+          <Property conf="0.999921" key="person" value="none"/>
+          <Coords points="928.553,1108.32 961.384,1108.32 961.384,1191.74 928.553,1191.74"/>
+          <TextEquiv conf="0.999921">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line0_Word5">
+          <Property conf="0.999856" key="category" value="name"/>
+          <Property conf="0.999856" key="person" value="husband"/>
+          <Coords points="983.271,1108.32 1070.82,1108.32 1070.82,1191.74 983.271,1191.74"/>
+          <TextEquiv conf="0.999856">
+            <Unicode>Joan</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line0_Word6">
+          <Property conf="0.859338" key="category" value="surname"/>
+          <Property conf="0.859338" key="person" value="husband"/>
+          <Coords points="1092.71,1108.32 1289.69,1108.32 1289.69,1191.74 1092.71,1191.74"/>
+          <TextEquiv conf="0.859338">
+            <Unicode>florenca</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line0_Word7">
+          <Property conf="0.991883" key="category" value="occupation"/>
+          <Property conf="0.991883" key="person" value="husband"/>
+          <Coords points="1311.58,1108.32 1410.07,1108.32 1410.07,1191.74 1311.58,1191.74"/>
+          <TextEquiv conf="0.991883">
+            <Unicode>jove</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line0_Word8">
+          <Property conf="0.996926" key="category" value="occupation"/>
+          <Property conf="0.996926" key="person" value="husband"/>
+          <Coords points="1431.96,1108.32 1585.16,1108.32 1585.16,1191.74 1431.96,1191.74"/>
+          <TextEquiv conf="0.996926">
+            <Unicode>sabater</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line0_Word9">
+          <Property conf="0.99994" key="category" value="other"/>
+          <Property conf="0.99994" key="person" value="none"/>
+          <Coords points="1617.99,1108.32 1650.83,1108.32 1650.83,1191.74 1617.99,1191.74"/>
+          <TextEquiv conf="0.99994">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line0_Word10">
+          <Property conf="0.943863" key="category" value="location"/>
+          <Property conf="0.943863" key="person" value="husband"/>
+          <Coords points="1672.71,1108.32 1827.29,1108.32 1827.29,1191.74 1672.71,1191.74"/>
+          <TextEquiv conf="0.943863">
+            <Unicode>Calafs</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line0_Word11">
+          <Property conf="0.999783" key="category" value="other"/>
+          <Property conf="0.999783" key="person" value="none"/>
+          <Coords points="1849.18,1108.32 2013.33,1108.32 2013.33,1191.74 1849.18,1191.74"/>
+          <TextEquiv conf="0.999783">
+            <Unicode>habitat</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record4_Line1">
+        <Coords points="419,1203.11 2086,1203.11 2086,1289.2 419,1289.2"/>
+        <Word id="Record4_Line1_Word0">
+          <Property conf="0.999945" key="category" value="other"/>
+          <Property conf="0.999945" key="person" value="none"/>
+          <Coords points="400.65,1203.11 434.527,1203.11 434.527,1289.2 400.65,1289.2"/>
+          <TextEquiv conf="0.999945">
+            <Unicode>en</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line1_Word1">
+          <Property conf="0.999824" key="category" value="location"/>
+          <Property conf="0.999824" key="person" value="husband"/>
+          <Coords points="457.111,1203.11 592.616,1203.11 592.616,1289.2 457.111,1289.2"/>
+          <TextEquiv conf="0.999824">
+            <Unicode>Bara</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line1_Word2">
+          <Property conf="0.999536" key="category" value="other"/>
+          <Property conf="0.999536" key="person" value="none"/>
+          <Coords points="603.909,1203.11 694.246,1203.11 694.246,1289.2 603.909,1289.2"/>
+          <TextEquiv conf="0.999536">
+            <Unicode>fill</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line1_Word3">
+          <Property conf="0.99992" key="category" value="other"/>
+          <Property conf="0.99992" key="person" value="none"/>
+          <Coords points="728.122,1203.11 750.706,1203.11 750.706,1289.2 728.122,1289.2"/>
+          <TextEquiv conf="0.99992">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line1_Word4">
+          <Property conf="0.998346" key="category" value="name"/>
+          <Property conf="0.998346" key="person" value="husbands_father"/>
+          <Coords points="773.29,1203.11 920.088,1203.11 920.088,1289.2 773.29,1289.2"/>
+          <TextEquiv conf="0.998346">
+            <Unicode>jaume</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line1_Word5">
+          <Property conf="0.446355" key="category" value="surname"/>
+          <Property conf="0.446355" key="person" value="husbands_father"/>
+          <Coords points="942.672,1203.11 1147.34,1203.11 1147.34,1289.2 942.672,1289.2"/>
+          <TextEquiv conf="0.446355">
+            <Unicode>Slorenca</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line1_Word6">
+          <Property conf="0.999159" key="category" value="occupation"/>
+          <Property conf="0.999159" key="person" value="husbands_father"/>
+          <Coords points="1181.22,1203.11 1305.43,1203.11 1305.43,1289.2 1181.22,1289.2"/>
+          <TextEquiv conf="0.999159">
+            <Unicode>sastre</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line1_Word7">
+          <Property conf="0.999635" key="category" value="other"/>
+          <Property conf="0.999635" key="person" value="none"/>
+          <Coords points="1328.02,1203.11 1486.11,1203.11 1486.11,1289.2 1328.02,1289.2"/>
+          <TextEquiv conf="0.999635">
+            <Unicode>defunct</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line1_Word8">
+          <Property conf="0.999984" key="category" value="other"/>
+          <Property conf="0.999984" key="person" value="none"/>
+          <Coords points="1519.98,1203.11 1542.57,1203.11 1542.57,1289.2 1519.98,1289.2"/>
+          <TextEquiv conf="0.999984">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line1_Word9">
+          <Property conf="0.999935" key="category" value="other"/>
+          <Property conf="0.999935" key="person" value="none"/>
+          <Coords points="1576.44,1203.11 1610.32,1203.11 1610.32,1289.2 1576.44,1289.2"/>
+          <TextEquiv conf="0.999935">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line1_Word10">
+          <Property conf="0.999407" key="category" value="name"/>
+          <Property conf="0.999407" key="person" value="husbands_mother"/>
+          <Coords points="1632.9,1203.11 1768.41,1203.11 1768.41,1289.2 1632.9,1289.2"/>
+          <TextEquiv conf="0.999407">
+            <Unicode>Joana</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line1_Word11">
+          <Property conf="0.999983" key="category" value="other"/>
+          <Property conf="0.999983" key="person" value="none"/>
+          <Coords points="1836.16,1203.11 1881.33,1203.11 1881.33,1289.2 1836.16,1289.2"/>
+          <TextEquiv conf="0.999983">
+            <Unicode>ab</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line1_Word12">
+          <Property conf="0.99939" key="category" value="name"/>
+          <Property conf="0.99939" key="person" value="wife"/>
+          <Coords points="1903.91,1203.11 2084.59,1203.11 2084.59,1289.2 1903.91,1289.2"/>
+          <TextEquiv conf="0.99939">
+            <Unicode>Eularia</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record4_Line2">
+        <Coords points="410,1291.38 1985,1291.38 1985,1386.12 410,1386.12"/>
+        <Word id="Record4_Line2_Word0">
+          <Property conf="0.997914" key="category" value="state"/>
+          <Property conf="0.997914" key="person" value="wife"/>
+          <Coords points="434.803,1291.38 620.827,1291.38 620.827,1386.12 434.803,1386.12"/>
+          <TextEquiv conf="0.997914">
+            <Unicode>donsella</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line2_Word1">
+          <Property conf="0.999266" key="category" value="other"/>
+          <Property conf="0.999266" key="person" value="none"/>
+          <Coords points="633.228,1291.38 744.843,1291.38 744.843,1386.12 633.228,1386.12"/>
+          <TextEquiv conf="0.999266">
+            <Unicode>filla</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line2_Word2">
+          <Property conf="0.999943" key="category" value="other"/>
+          <Property conf="0.999943" key="person" value="none"/>
+          <Coords points="769.646,1291.38 806.85,1291.38 806.85,1386.12 769.646,1386.12"/>
+          <TextEquiv conf="0.999943">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line2_Word3">
+          <Property conf="0.999948" key="category" value="name"/>
+          <Property conf="0.999948" key="person" value="wifes_father"/>
+          <Coords points="819.252,1291.38 918.465,1291.38 918.465,1386.12 819.252,1386.12"/>
+          <TextEquiv conf="0.999948">
+            <Unicode>Pere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line2_Word4">
+          <Property conf="0.997019" key="category" value="surname"/>
+          <Property conf="0.997019" key="person" value="wifes_father"/>
+          <Coords points="943.268,1291.38 1116.89,1291.38 1116.89,1386.12 943.268,1386.12"/>
+          <TextEquiv conf="0.997019">
+            <Unicode>Ortigues</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line2_Word5">
+          <Property conf="0.998833" key="category" value="occupation"/>
+          <Property conf="0.998833" key="person" value="wifes_father"/>
+          <Coords points="1141.69,1291.38 1278.11,1291.38 1278.11,1386.12 1141.69,1386.12"/>
+          <TextEquiv conf="0.998833">
+            <Unicode>sastre</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line2_Word6">
+          <Property conf="0.999376" key="category" value="other"/>
+          <Property conf="0.999376" key="person" value="none"/>
+          <Coords points="1302.91,1291.38 1340.12,1291.38 1340.12,1386.12 1302.91,1386.12"/>
+          <TextEquiv conf="0.999376">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line2_Word7">
+          <Property conf="0.999641" key="category" value="location"/>
+          <Property conf="0.999641" key="person" value="wifes_father"/>
+          <Coords points="1352.52,1291.38 1490.49,1291.38 1490.49,1386.12 1352.52,1386.12"/>
+          <TextEquiv conf="0.999641">
+            <Unicode>Bara</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line2_Word8">
+          <Property conf="0.999065" key="category" value="other"/>
+          <Property conf="0.999065" key="person" value="none"/>
+          <Coords points="1502.89,1291.38 1651.71,1291.38 1651.71,1386.12 1502.89,1386.12"/>
+          <TextEquiv conf="0.999065">
+            <Unicode>defunct</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line2_Word9">
+          <Property conf="0.999951" key="category" value="other"/>
+          <Property conf="0.999951" key="person" value="none"/>
+          <Coords points="1676.51,1291.38 1701.31,1291.38 1701.31,1386.12 1676.51,1386.12"/>
+          <TextEquiv conf="0.999951">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line2_Word10">
+          <Property conf="0.99989" key="category" value="other"/>
+          <Property conf="0.99989" key="person" value="none"/>
+          <Coords points="1726.12,1291.38 1763.32,1291.38 1763.32,1386.12 1726.12,1386.12"/>
+          <TextEquiv conf="0.99989">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record4_Line2_Word11">
+          <Property conf="0.999716" key="category" value="name"/>
+          <Property conf="0.999716" key="person" value="wifes_mother"/>
+          <Coords points="1788.12,1291.38 1961.75,1291.38 1961.75,1386.12 1788.12,1386.12"/>
+          <TextEquiv conf="0.999716">
+            <Unicode>Angela</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Record5">
+      <Coords points="396,1387.16 2084,1387.16 2084,1758.92 396,1758.92"/>
+      <TextLine id="Record5_Line0">
+        <Coords points="396,1387.16 2045,1387.16 2045,1467.63 396,1467.63"/>
+        <Word id="Record5_Line0_Word0">
+          <Property conf="0.988637" key="category" value="other"/>
+          <Property conf="0.988637" key="person" value="none"/>
+          <Coords points="414.877,1387.16 630.608,1387.16 630.608,1467.63 414.877,1467.63"/>
+          <TextEquiv conf="0.988637">
+            <Unicode>Divendres</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line0_Word1">
+          <Property conf="0.999967" key="category" value="other"/>
+          <Property conf="0.999967" key="person" value="none"/>
+          <Coords points="662.968,1387.16 684.541,1387.16 684.541,1467.63 662.968,1467.63"/>
+          <TextEquiv conf="0.999967">
+            <Unicode>a</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line0_Word2">
+          <Property conf="0.99986" key="category" value="other"/>
+          <Property conf="0.99986" key="person" value="none"/>
+          <Coords points="716.901,1387.16 770.834,1387.16 770.834,1467.63 716.901,1467.63"/>
+          <TextEquiv conf="0.99986">
+            <Unicode>21</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line0_Word3">
+          <Property conf="0.999985" key="category" value="other"/>
+          <Property conf="0.999985" key="person" value="none"/>
+          <Coords points="803.194,1387.16 923.195,1387.16 923.195,1467.63 803.194,1467.63"/>
+          <TextEquiv conf="0.999985">
+            <Unicode>rebere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line0_Word4">
+          <Property conf="0.999975" key="category" value="other"/>
+          <Property conf="0.999975" key="person" value="none"/>
+          <Coords points="955.554,1387.16 977.128,1387.16 977.128,1467.63 955.554,1467.63"/>
+          <TextEquiv conf="0.999975">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line0_Word5">
+          <Property conf="0.999714" key="category" value="name"/>
+          <Property conf="0.999714" key="person" value="husband"/>
+          <Coords points="998.701,1387.16 1106.57,1387.16 1106.57,1467.63 998.701,1467.63"/>
+          <TextEquiv conf="0.999714">
+            <Unicode>Pere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line0_Word6">
+          <Property conf="0.999555" key="category" value="surname"/>
+          <Property conf="0.999555" key="person" value="husband"/>
+          <Coords points="1117.35,1387.16 1300.73,1387.16 1300.73,1467.63 1117.35,1467.63"/>
+          <TextEquiv conf="0.999555">
+            <Unicode>Guardia</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line0_Word7">
+          <Property conf="0.993126" key="category" value="occupation"/>
+          <Property conf="0.993126" key="person" value="husband"/>
+          <Coords points="1311.51,1387.16 1473.31,1387.16 1473.31,1467.63 1311.51,1467.63"/>
+          <TextEquiv conf="0.993126">
+            <Unicode>texidor</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line0_Word8">
+          <Property conf="0.998581" key="category" value="occupation"/>
+          <Property conf="0.998581" key="person" value="husband"/>
+          <Coords points="1484.1,1387.16 1527.24,1387.16 1527.24,1467.63 1484.1,1467.63"/>
+          <TextEquiv conf="0.998581">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line0_Word9">
+          <Property conf="0.998827" key="category" value="occupation"/>
+          <Property conf="0.998827" key="person" value="husband"/>
+          <Coords points="1548.82,1387.16 1656.68,1387.16 1656.68,1467.63 1548.82,1467.63"/>
+          <TextEquiv conf="0.998827">
+            <Unicode>llana</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line0_Word10">
+          <Property conf="0.999966" key="category" value="other"/>
+          <Property conf="0.999966" key="person" value="none"/>
+          <Coords points="1711.96,1387.16 1744.32,1387.16 1744.32,1467.63 1711.96,1467.63"/>
+          <TextEquiv conf="0.999966">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line0_Word11">
+          <Property conf="0.99502" key="category" value="location"/>
+          <Property conf="0.99502" key="person" value="husband"/>
+          <Coords points="1765.9,1387.16 1906.12,1387.16 1906.12,1467.63 1765.9,1467.63"/>
+          <TextEquiv conf="0.99502">
+            <Unicode>Aulot</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line0_Word12">
+          <Property conf="0.997696" key="category" value="location"/>
+          <Property conf="0.997696" key="person" value="husband"/>
+          <Coords points="1916.91,1387.16 2046.35,1387.16 2046.35,1467.63 1916.91,1467.63"/>
+          <TextEquiv conf="0.997696">
+            <Unicode>bisbat</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record5_Line1">
+        <Coords points="425,1478.59 2024,1478.59 2024,1565.96 425,1565.96"/>
+        <Word id="Record5_Line1_Word0">
+          <Property conf="0.99553" key="category" value="location"/>
+          <Property conf="0.99553" key="person" value="husband"/>
+          <Coords points="429.385,1478.59 487.849,1478.59 487.849,1565.96 429.385,1565.96"/>
+          <TextEquiv conf="0.99553">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line1_Word1">
+          <Property conf="0.99825" key="category" value="location"/>
+          <Property conf="0.99825" key="person" value="husband"/>
+          <Coords points="499.542,1478.59 639.857,1478.59 639.857,1565.96 499.542,1565.96"/>
+          <TextEquiv conf="0.99825">
+            <Unicode>Girona</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line1_Word2">
+          <Property conf="0.999906" key="category" value="other"/>
+          <Property conf="0.999906" key="person" value="none"/>
+          <Coords points="663.242,1478.59 838.635,1478.59 838.635,1565.96 663.242,1565.96"/>
+          <TextEquiv conf="0.999906">
+            <Unicode>habitant</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line1_Word3">
+          <Property conf="0.999972" key="category" value="other"/>
+          <Property conf="0.999972" key="person" value="none"/>
+          <Coords points="862.021,1478.59 897.1,1478.59 897.1,1565.96 862.021,1565.96"/>
+          <TextEquiv conf="0.999972">
+            <Unicode>en</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line1_Word4">
+          <Property conf="0.999823" key="category" value="location"/>
+          <Property conf="0.999823" key="person" value="husband"/>
+          <Coords points="920.485,1478.59 1062.26,1478.59 1062.26,1565.96 920.485,1565.96"/>
+          <TextEquiv conf="0.999823">
+            <Unicode>Bara</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line1_Word5">
+          <Property conf="0.999809" key="category" value="other"/>
+          <Property conf="0.999809" key="person" value="none"/>
+          <Coords points="1073.95,1478.59 1155.8,1478.59 1155.8,1565.96 1073.95,1565.96"/>
+          <TextEquiv conf="0.999809">
+            <Unicode>fill</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line1_Word6">
+          <Property conf="0.996587" key="category" value="other"/>
+          <Property conf="0.996587" key="person" value="none"/>
+          <Coords points="1179.19,1478.59 1214.27,1478.59 1214.27,1565.96 1179.19,1565.96"/>
+          <TextEquiv conf="0.996587">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line1_Word7">
+          <Property conf="0.999886" key="category" value="name"/>
+          <Property conf="0.999886" key="person" value="husbands_father"/>
+          <Coords points="1225.96,1478.59 1389.66,1478.59 1389.66,1565.96 1225.96,1565.96"/>
+          <TextEquiv conf="0.999886">
+            <Unicode>Antoni</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line1_Word8">
+          <Property conf="0.996422" key="category" value="surname"/>
+          <Property conf="0.996422" key="person" value="husbands_father"/>
+          <Coords points="1401.35,1478.59 1553.36,1478.59 1553.36,1565.96 1401.35,1565.96"/>
+          <TextEquiv conf="0.996422">
+            <Unicode>Guardia</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line1_Word9">
+          <Property conf="0.998453" key="category" value="occupation"/>
+          <Property conf="0.998453" key="person" value="husbands_father"/>
+          <Coords points="1576.75,1478.59 1740.45,1478.59 1740.45,1565.96 1576.75,1565.96"/>
+          <TextEquiv conf="0.998453">
+            <Unicode>calsater</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line1_Word10">
+          <Property conf="0.997232" key="category" value="occupation"/>
+          <Property conf="0.997232" key="person" value="husbands_father"/>
+          <Coords points="1752.14,1478.59 1798.91,1478.59 1798.91,1565.96 1752.14,1565.96"/>
+          <TextEquiv conf="0.997232">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line1_Word11">
+          <Property conf="0.723849" key="category" value="occupation"/>
+          <Property conf="0.723849" key="person" value="husbands_father"/>
+          <Coords points="1810.61,1478.59 1952.38,1478.59 1952.38,1565.96 1810.61,1565.96"/>
+          <TextEquiv conf="0.723849">
+            <Unicode>agilla</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record5_Line2">
+        <Coords points="402,1565.95 2084,1565.95 2084,1653.93 402,1653.93"/>
+        <Word id="Record5_Line2_Word0">
+          <Property conf="0.999978" key="category" value="other"/>
+          <Property conf="0.999978" key="person" value="none"/>
+          <Coords points="379.927,1565.95 403.472,1565.95 403.472,1653.93 379.927,1653.93"/>
+          <TextEquiv conf="0.999978">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line2_Word1">
+          <Property conf="0.999988" key="category" value="other"/>
+          <Property conf="0.999988" key="person" value="none"/>
+          <Coords points="427.017,1565.95 462.334,1565.95 462.334,1653.93 427.017,1653.93"/>
+          <TextEquiv conf="0.999988">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line2_Word2">
+          <Property conf="0.999526" key="category" value="name"/>
+          <Property conf="0.999526" key="person" value="husbands_mother"/>
+          <Coords points="485.879,1565.95 615.377,1565.95 615.377,1653.93 485.879,1653.93"/>
+          <TextEquiv conf="0.999526">
+            <Unicode>Joana</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line2_Word3">
+          <Property conf="0.999981" key="category" value="other"/>
+          <Property conf="0.999981" key="person" value="none"/>
+          <Coords points="674.24,1565.95 721.33,1565.95 721.33,1653.93 674.24,1653.93"/>
+          <TextEquiv conf="0.999981">
+            <Unicode>ab</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line2_Word4">
+          <Property conf="0.99998" key="category" value="name"/>
+          <Property conf="0.99998" key="person" value="wife"/>
+          <Coords points="733.102,1565.95 874.373,1565.95 874.373,1653.93 733.102,1653.93"/>
+          <TextEquiv conf="0.99998">
+            <Unicode>Anna</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line2_Word5">
+          <Property conf="0.999207" key="category" value="state"/>
+          <Property conf="0.999207" key="person" value="wife"/>
+          <Coords points="897.918,1565.95 1062.73,1565.95 1062.73,1653.93 897.918,1653.93"/>
+          <TextEquiv conf="0.999207">
+            <Unicode>donsella</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line2_Word6">
+          <Property conf="0.99985" key="category" value="other"/>
+          <Property conf="0.99985" key="person" value="none"/>
+          <Coords points="1098.05,1565.95 1205.48,1565.95 1205.48,1653.93 1098.05,1653.93"/>
+          <TextEquiv conf="0.99985">
+            <Unicode>filla</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line2_Word7">
+          <Property conf="0.999966" key="category" value="other"/>
+          <Property conf="0.999966" key="person" value="none"/>
+          <Coords points="1229.02,1565.95 1276.11,1565.95 1276.11,1653.93 1229.02,1653.93"/>
+          <TextEquiv conf="0.999966">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line2_Word8">
+          <Property conf="0.999921" key="category" value="name"/>
+          <Property conf="0.999921" key="person" value="wifes_father"/>
+          <Coords points="1287.88,1565.95 1405.61,1565.95 1405.61,1653.93 1287.88,1653.93"/>
+          <TextEquiv conf="0.999921">
+            <Unicode>Pere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line2_Word9">
+          <Property conf="0.999635" key="category" value="surname"/>
+          <Property conf="0.999635" key="person" value="wifes_father"/>
+          <Coords points="1417.38,1565.95 1605.74,1565.95 1605.74,1653.93 1417.38,1653.93"/>
+          <TextEquiv conf="0.999635">
+            <Unicode>Scarrer</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line2_Word10">
+          <Property conf="0.998157" key="category" value="occupation"/>
+          <Property conf="0.998157" key="person" value="wifes_father"/>
+          <Coords points="1617.51,1565.95 1817.65,1565.95 1817.65,1653.93 1617.51,1653.93"/>
+          <TextEquiv conf="0.998157">
+            <Unicode>negociant</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line2_Word11">
+          <Property conf="0.99898" key="category" value="other"/>
+          <Property conf="0.99898" key="person" value="none"/>
+          <Coords points="1852.96,1565.95 1888.28,1565.95 1888.28,1653.93 1852.96,1653.93"/>
+          <TextEquiv conf="0.99898">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line2_Word12">
+          <Property conf="0.999761" key="category" value="location"/>
+          <Property conf="0.999761" key="person" value="wifes_father"/>
+          <Coords points="1900.05,1565.95 2064.87,1565.95 2064.87,1653.93 1900.05,1653.93"/>
+          <TextEquiv conf="0.999761">
+            <Unicode>Bara</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record5_Line3">
+        <Coords points="421,1660.8 947,1660.8 947,1758.92 421,1758.92"/>
+        <Word id="Record5_Line3_Word0">
+          <Property conf="0.99994" key="category" value="other"/>
+          <Property conf="0.99994" key="person" value="none"/>
+          <Coords points="416.084,1660.8 588.14,1660.8 588.14,1758.92 416.084,1758.92"/>
+          <TextEquiv conf="0.99994">
+            <Unicode>defunct</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line3_Word1">
+          <Property conf="0.99999" key="category" value="other"/>
+          <Property conf="0.99999" key="person" value="none"/>
+          <Coords points="614.358,1660.8 640.576,1660.8 640.576,1758.92 614.358,1758.92"/>
+          <TextEquiv conf="0.99999">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line3_Word2">
+          <Property conf="0.999388" key="category" value="other"/>
+          <Property conf="0.999388" key="person" value="none"/>
+          <Coords points="666.794,1660.8 706.122,1660.8 706.122,1758.92 666.794,1758.92"/>
+          <TextEquiv conf="0.999388">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record5_Line3_Word3">
+          <Property conf="0.997843" key="category" value="name"/>
+          <Property conf="0.997843" key="person" value="wifes_mother"/>
+          <Coords points="732.34,1660.8 942.084,1660.8 942.084,1758.92 732.34,1758.92"/>
+          <TextEquiv conf="0.997843">
+            <Unicode>Elisabeth</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Record6">
+      <Coords points="400,1750.58 2032,1750.58 2032,2019.28 400,2019.28"/>
+      <TextLine id="Record6_Line0">
+        <Coords points="400,1750.58 2005,1750.58 2005,1833.68 400,1833.68"/>
+        <Word id="Record6_Line0_Word0">
+          <Property conf="0.99765" key="category" value="other"/>
+          <Property conf="0.99765" key="person" value="none"/>
+          <Coords points="420.225,1750.58 593.582,1750.58 593.582,1833.68 420.225,1833.68"/>
+          <TextEquiv conf="0.99765">
+            <Unicode>Dissapte</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line0_Word1">
+          <Property conf="0.999917" key="category" value="other"/>
+          <Property conf="0.999917" key="person" value="none"/>
+          <Coords points="616.697,1750.58 639.811,1750.58 639.811,1833.68 616.697,1833.68"/>
+          <TextEquiv conf="0.999917">
+            <Unicode>a</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line0_Word2">
+          <Property conf="0.998524" key="category" value="other"/>
+          <Property conf="0.998524" key="person" value="none"/>
+          <Coords points="686.04,1750.58 732.268,1750.58 732.268,1833.68 686.04,1833.68"/>
+          <TextEquiv conf="0.998524">
+            <Unicode>22</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line0_Word3">
+          <Property conf="0.999934" key="category" value="other"/>
+          <Property conf="0.999934" key="person" value="none"/>
+          <Coords points="778.497,1750.58 905.626,1750.58 905.626,1833.68 778.497,1833.68"/>
+          <TextEquiv conf="0.999934">
+            <Unicode>rebere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line0_Word4">
+          <Property conf="0.999842" key="category" value="other"/>
+          <Property conf="0.999842" key="person" value="none"/>
+          <Coords points="928.74,1750.58 963.411,1750.58 963.411,1833.68 928.74,1833.68"/>
+          <TextEquiv conf="0.999842">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line0_Word5">
+          <Property conf="0.999981" key="category" value="name"/>
+          <Property conf="0.999981" key="person" value="husband"/>
+          <Coords points="986.526,1750.58 1090.54,1750.58 1090.54,1833.68 986.526,1833.68"/>
+          <TextEquiv conf="0.999981">
+            <Unicode>Pere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line0_Word6">
+          <Property conf="0.99553" key="category" value="surname"/>
+          <Property conf="0.99553" key="person" value="husband"/>
+          <Coords points="1113.65,1750.58 1287.01,1750.58 1287.01,1833.68 1113.65,1833.68"/>
+          <TextEquiv conf="0.99553">
+            <Unicode>jaumira</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line0_Word7">
+          <Property conf="0.99977" key="category" value="occupation"/>
+          <Property conf="0.99977" key="person" value="husband"/>
+          <Coords points="1321.68,1750.58 1425.7,1750.58 1425.7,1833.68 1321.68,1833.68"/>
+          <TextEquiv conf="0.99977">
+            <Unicode>pages</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line0_Word8">
+          <Property conf="0.999738" key="category" value="other"/>
+          <Property conf="0.999738" key="person" value="none"/>
+          <Coords points="1460.37,1750.58 1495.04,1750.58 1495.04,1833.68 1460.37,1833.68"/>
+          <TextEquiv conf="0.999738">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line0_Word9">
+          <Property conf="0.770002" key="category" value="location"/>
+          <Property conf="0.770002" key="person" value="husband"/>
+          <Coords points="1506.6,1750.58 1552.83,1750.58 1552.83,1833.68 1506.6,1833.68"/>
+          <TextEquiv conf="0.770002">
+            <Unicode>la</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line0_Word10">
+          <Property conf="0.992706" key="category" value="location"/>
+          <Property conf="0.992706" key="person" value="husband"/>
+          <Coords points="1575.94,1750.58 1760.86,1750.58 1760.86,1833.68 1575.94,1833.68"/>
+          <TextEquiv conf="0.992706">
+            <Unicode>Amella</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line0_Word11">
+          <Property conf="0.9999" key="category" value="other"/>
+          <Property conf="0.9999" key="person" value="none"/>
+          <Coords points="1795.53,1750.58 1887.98,1750.58 1887.98,1833.68 1795.53,1833.68"/>
+          <TextEquiv conf="0.9999">
+            <Unicode>fill</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line0_Word12">
+          <Property conf="0.999446" key="category" value="other"/>
+          <Property conf="0.999446" key="person" value="none"/>
+          <Coords points="1911.1,1750.58 1957.33,1750.58 1957.33,1833.68 1911.1,1833.68"/>
+          <TextEquiv conf="0.999446">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record6_Line1">
+        <Coords points="423,1842.73 2032,1842.73 2032,1932.9 423,1932.9"/>
+        <Word id="Record6_Line1_Word0">
+          <Property conf="0.999819" key="category" value="name"/>
+          <Property conf="0.999819" key="person" value="husbands_father"/>
+          <Coords points="386.966,1842.73 537.369,1842.73 537.369,1932.9 386.966,1932.9"/>
+          <TextEquiv conf="0.999819">
+            <Unicode>jaume</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line1_Word1">
+          <Property conf="0.990718" key="category" value="surname"/>
+          <Property conf="0.990718" key="person" value="husbands_father"/>
+          <Coords points="562.436,1842.73 750.44,1842.73 750.44,1932.9 562.436,1932.9"/>
+          <TextEquiv conf="0.990718">
+            <Unicode>jaumira</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line1_Word2">
+          <Property conf="0.999645" key="category" value="occupation"/>
+          <Property conf="0.999645" key="person" value="husbands_father"/>
+          <Coords points="775.507,1842.73 900.843,1842.73 900.843,1932.9 775.507,1932.9"/>
+          <TextEquiv conf="0.999645">
+            <Unicode>pages</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line1_Word3">
+          <Property conf="0.999863" key="category" value="other"/>
+          <Property conf="0.999863" key="person" value="none"/>
+          <Coords points="938.444,1842.73 1101.38,1842.73 1101.38,1932.9 938.444,1932.9"/>
+          <TextEquiv conf="0.999863">
+            <Unicode>defunct</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line1_Word4">
+          <Property conf="0.99998" key="category" value="other"/>
+          <Property conf="0.99998" key="person" value="none"/>
+          <Coords points="1126.45,1842.73 1138.98,1842.73 1138.98,1932.9 1126.45,1932.9"/>
+          <TextEquiv conf="0.99998">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line1_Word5">
+          <Property conf="0.999983" key="category" value="other"/>
+          <Property conf="0.999983" key="person" value="none"/>
+          <Coords points="1176.58,1842.73 1201.65,1842.73 1201.65,1932.9 1176.58,1932.9"/>
+          <TextEquiv conf="0.999983">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line1_Word6">
+          <Property conf="0.999716" key="category" value="name"/>
+          <Property conf="0.999716" key="person" value="husbands_mother"/>
+          <Coords points="1226.72,1842.73 1427.25,1842.73 1427.25,1932.9 1226.72,1932.9"/>
+          <TextEquiv conf="0.999716">
+            <Unicode>Elisabeth</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line1_Word7">
+          <Property conf="0.999938" key="category" value="other"/>
+          <Property conf="0.999938" key="person" value="none"/>
+          <Coords points="1464.85,1842.73 1502.46,1842.73 1502.46,1932.9 1464.85,1932.9"/>
+          <TextEquiv conf="0.999938">
+            <Unicode>ab</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line1_Word8">
+          <Property conf="0.995462" key="category" value="name"/>
+          <Property conf="0.995462" key="person" value="wife"/>
+          <Coords points="1527.52,1842.73 1665.39,1842.73 1665.39,1932.9 1527.52,1932.9"/>
+          <TextEquiv conf="0.995462">
+            <Unicode>Paula</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line1_Word9">
+          <Property conf="0.99932" key="category" value="state"/>
+          <Property conf="0.99932" key="person" value="wife"/>
+          <Coords points="1690.46,1842.73 1865.93,1842.73 1865.93,1932.9 1690.46,1932.9"/>
+          <TextEquiv conf="0.99932">
+            <Unicode>donsella</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line1_Word10">
+          <Property conf="0.999766" key="category" value="other"/>
+          <Property conf="0.999766" key="person" value="none"/>
+          <Coords points="1891,1842.73 2003.8,1842.73 2003.8,1932.9 1891,1932.9"/>
+          <TextEquiv conf="0.999766">
+            <Unicode>filla</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record6_Line2">
+        <Coords points="418,1936.79 1699,1936.79 1699,2019.28 418,2019.28"/>
+        <Word id="Record6_Line2_Word0">
+          <Property conf="0.999859" key="category" value="other"/>
+          <Property conf="0.999859" key="person" value="none"/>
+          <Coords points="406.537,1936.79 440.926,1936.79 440.926,2019.28 406.537,2019.28"/>
+          <TextEquiv conf="0.999859">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line2_Word1">
+          <Property conf="0.999802" key="category" value="name"/>
+          <Property conf="0.999802" key="person" value="wifes_father"/>
+          <Coords points="452.389,1936.79 612.872,1936.79 612.872,2019.28 452.389,2019.28"/>
+          <TextEquiv conf="0.999802">
+            <Unicode>Antoni</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line2_Word2">
+          <Property conf="0.577499" key="category" value="surname"/>
+          <Property conf="0.577499" key="person" value="wifes_father"/>
+          <Coords points="635.799,1936.79 784.819,1936.79 784.819,2019.28 635.799,2019.28"/>
+          <TextEquiv conf="0.577499">
+            <Unicode>Homs</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line2_Word3">
+          <Property conf="0.999464" key="category" value="occupation"/>
+          <Property conf="0.999464" key="person" value="wifes_father"/>
+          <Coords points="807.745,1936.79 933.839,1936.79 933.839,2019.28 807.745,2019.28"/>
+          <TextEquiv conf="0.999464">
+            <Unicode>pages</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line2_Word4">
+          <Property conf="0.999471" key="category" value="other"/>
+          <Property conf="0.999471" key="person" value="none"/>
+          <Coords points="968.228,1936.79 1002.62,1936.79 1002.62,2019.28 968.228,2019.28"/>
+          <TextEquiv conf="0.999471">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line2_Word5">
+          <Property conf="0.986427" key="category" value="location"/>
+          <Property conf="0.986427" key="person" value="wifes_father"/>
+          <Coords points="1014.08,1936.79 1186.03,1936.79 1186.03,2019.28 1014.08,2019.28"/>
+          <TextEquiv conf="0.986427">
+            <Unicode>Llerona</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line2_Word6">
+          <Property conf="0.999977" key="category" value="other"/>
+          <Property conf="0.999977" key="person" value="none"/>
+          <Coords points="1220.42,1936.79 1243.34,1936.79 1243.34,2019.28 1220.42,2019.28"/>
+          <TextEquiv conf="0.999977">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line2_Word7">
+          <Property conf="0.999986" key="category" value="other"/>
+          <Property conf="0.999986" key="person" value="none"/>
+          <Coords points="1266.27,1936.79 1300.66,1936.79 1300.66,2019.28 1266.27,2019.28"/>
+          <TextEquiv conf="0.999986">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line2_Word8">
+          <Property conf="0.999905" key="category" value="name"/>
+          <Property conf="0.999905" key="person" value="wifes_mother"/>
+          <Coords points="1323.58,1936.79 1472.6,1936.79 1472.6,2019.28 1323.58,2019.28"/>
+          <TextEquiv conf="0.999905">
+            <Unicode>Antiga</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record6_Line2_Word9">
+          <Property conf="0.999543" key="category" value="other"/>
+          <Property conf="0.999543" key="person" value="none"/>
+          <Coords points="1506.99,1936.79 1678.94,1936.79 1678.94,2019.28 1506.99,2019.28"/>
+          <TextEquiv conf="0.999543">
+            <Unicode>defuncts</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Record7">
+      <Coords points="404,2026.76 2028,2026.76 2028,2309.55 404,2309.55"/>
+      <TextLine id="Record7_Line0">
+        <Coords points="404,2026.76 2028,2026.76 2028,2119.29 404,2119.29"/>
+        <Word id="Record7_Line0_Word0">
+          <Property conf="0.997433" key="category" value="other"/>
+          <Property conf="0.997433" key="person" value="none"/>
+          <Coords points="427.012,2026.76 492.761,2026.76 492.761,2119.29 427.012,2119.29"/>
+          <TextEquiv conf="0.997433">
+            <Unicode>Dit</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line0_Word1">
+          <Property conf="0.999679" key="category" value="other"/>
+          <Property conf="0.999679" key="person" value="none"/>
+          <Coords points="519.061,2026.76 571.66,2026.76 571.66,2119.29 519.061,2119.29"/>
+          <TextEquiv conf="0.999679">
+            <Unicode>dia</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line0_Word2">
+          <Property conf="0.999937" key="category" value="other"/>
+          <Property conf="0.999937" key="person" value="none"/>
+          <Coords points="597.96,2026.76 729.458,2026.76 729.458,2119.29 597.96,2119.29"/>
+          <TextEquiv conf="0.999937">
+            <Unicode>rebere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line0_Word3">
+          <Property conf="0.999813" key="category" value="other"/>
+          <Property conf="0.999813" key="person" value="none"/>
+          <Coords points="755.757,2026.76 795.206,2026.76 795.206,2119.29 755.757,2119.29"/>
+          <TextEquiv conf="0.999813">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line0_Word4">
+          <Property conf="0.999351" key="category" value="name"/>
+          <Property conf="0.999351" key="person" value="husband"/>
+          <Coords points="808.356,2026.76 915.198,2026.76 915.198,2119.29 808.356,2119.29"/>
+          <TextEquiv conf="0.999351">
+            <Unicode>Joan</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line0_Word5">
+          <Property conf="0.996736" key="category" value="surname"/>
+          <Property conf="0.996736" key="person" value="husband"/>
+          <Coords points="954.648,2026.76 1086.15,2026.76 1086.15,2119.29 954.648,2119.29"/>
+          <TextEquiv conf="0.996736">
+            <Unicode>Ribo</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line0_Word6">
+          <Property conf="0.994678" key="category" value="occupation"/>
+          <Property conf="0.994678" key="person" value="husband"/>
+          <Coords points="1112.45,2026.76 1322.84,2026.76 1322.84,2119.29 1112.45,2119.29"/>
+          <TextEquiv conf="0.994678">
+            <Unicode>negociant</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line0_Word7">
+          <Property conf="0.999979" key="category" value="other"/>
+          <Property conf="0.999979" key="person" value="none"/>
+          <Coords points="1349.14,2026.76 1388.59,2026.76 1388.59,2119.29 1349.14,2119.29"/>
+          <TextEquiv conf="0.999979">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line0_Word8">
+          <Property conf="0.995769" key="category" value="location"/>
+          <Property conf="0.995769" key="person" value="husband"/>
+          <Coords points="1414.89,2026.76 1598.99,2026.76 1598.99,2119.29 1414.89,2119.29"/>
+          <TextEquiv conf="0.995769">
+            <Unicode>Conques</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line0_Word9">
+          <Property conf="0.998544" key="category" value="location"/>
+          <Property conf="0.998544" key="person" value="husband"/>
+          <Coords points="1612.14,2026.76 1756.79,2026.76 1756.79,2119.29 1612.14,2119.29"/>
+          <TextEquiv conf="0.998544">
+            <Unicode>bisbat</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line0_Word10">
+          <Property conf="0.995693" key="category" value="location"/>
+          <Property conf="0.995693" key="person" value="husband"/>
+          <Coords points="1769.94,2026.76 1822.53,2026.76 1822.53,2119.29 1769.94,2119.29"/>
+          <TextEquiv conf="0.995693">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line0_Word11">
+          <Property conf="0.995796" key="category" value="location"/>
+          <Property conf="0.995796" key="person" value="husband"/>
+          <Coords points="1837.33,2026.76 1981.98,2026.76 1981.98,2119.29 1837.33,2119.29"/>
+          <TextEquiv conf="0.995796">
+            <Unicode>Urgell</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line0_Word12">
+          <Property conf="0.878121" key="category" value="other"/>
+          <Property conf="0.878121" key="person" value="none"/>
+          <Coords points="1995.13,2026.76 2074.02,2026.76 2074.02,2119.29 1995.13,2119.29"/>
+          <TextEquiv conf="0.878121">
+            <Unicode>ha=</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record7_Line1">
+        <Coords points="421,2119.26 2005,2119.26 2005,2205.93 421,2205.93"/>
+        <Word id="Record7_Line1_Word0">
+          <Property conf="0.999717" key="category" value="other"/>
+          <Property conf="0.999717" key="person" value="none"/>
+          <Coords points="467.226,2119.26 590.494,2119.26 590.494,2205.93 467.226,2205.93"/>
+          <TextEquiv conf="0.999717">
+            <Unicode>bitant</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line1_Word1">
+          <Property conf="0.99996" key="category" value="other"/>
+          <Property conf="0.99996" key="person" value="none"/>
+          <Coords points="615.148,2119.26 652.128,2119.26 652.128,2205.93 615.148,2205.93"/>
+          <TextEquiv conf="0.99996">
+            <Unicode>en</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line1_Word2">
+          <Property conf="0.999732" key="category" value="location"/>
+          <Property conf="0.999732" key="person" value="husband"/>
+          <Coords points="676.782,2119.26 812.377,2119.26 812.377,2205.93 676.782,2205.93"/>
+          <TextEquiv conf="0.999732">
+            <Unicode>Bara</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line1_Word3">
+          <Property conf="0.999907" key="category" value="other"/>
+          <Property conf="0.999907" key="person" value="none"/>
+          <Coords points="824.704,2119.26 910.992,2119.26 910.992,2205.93 824.704,2205.93"/>
+          <TextEquiv conf="0.999907">
+            <Unicode>fill</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line1_Word4">
+          <Property conf="0.999873" key="category" value="other"/>
+          <Property conf="0.999873" key="person" value="none"/>
+          <Coords points="935.646,2119.26 960.3,2119.26 960.3,2205.93 935.646,2205.93"/>
+          <TextEquiv conf="0.999873">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line1_Word5">
+          <Property conf="0.99973" key="category" value="name"/>
+          <Property conf="0.99973" key="person" value="husbands_father"/>
+          <Coords points="984.953,2119.26 1146.74,2119.26 1146.74,2205.93 984.953,2205.93"/>
+          <TextEquiv conf="0.99973">
+            <Unicode>Antoni</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line1_Word6">
+          <Property conf="0.983201" key="category" value="surname"/>
+          <Property conf="0.983201" key="person" value="husbands_father"/>
+          <Coords points="1159.07,2119.26 1282.34,2119.26 1282.34,2205.93 1159.07,2205.93"/>
+          <TextEquiv conf="0.983201">
+            <Unicode>Ribo</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line1_Word7">
+          <Property conf="0.996493" key="category" value="occupation"/>
+          <Property conf="0.996493" key="person" value="husbands_father"/>
+          <Coords points="1294.67,2119.26 1417.93,2119.26 1417.93,2205.93 1294.67,2205.93"/>
+          <TextEquiv conf="0.996493">
+            <Unicode>pages</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line1_Word8">
+          <Property conf="0.999959" key="category" value="other"/>
+          <Property conf="0.999959" key="person" value="none"/>
+          <Coords points="1442.59,2119.26 1467.24,2119.26 1467.24,2205.93 1442.59,2205.93"/>
+          <TextEquiv conf="0.999959">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line1_Word9">
+          <Property conf="0.999466" key="category" value="other"/>
+          <Property conf="0.999466" key="person" value="none"/>
+          <Coords points="1491.89,2119.26 1528.88,2119.26 1528.88,2205.93 1491.89,2205.93"/>
+          <TextEquiv conf="0.999466">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line1_Word10">
+          <Property conf="0.999349" key="category" value="name"/>
+          <Property conf="0.999349" key="person" value="husbands_mother"/>
+          <Coords points="1553.53,2119.26 1775.41,2119.26 1775.41,2205.93 1553.53,2205.93"/>
+          <TextEquiv conf="0.999349">
+            <Unicode>Catherina</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line1_Word11">
+          <Property conf="0.999975" key="category" value="other"/>
+          <Property conf="0.999975" key="person" value="none"/>
+          <Coords points="1837.05,2119.26 1886.35,2119.26 1886.35,2205.93 1837.05,2205.93"/>
+          <TextEquiv conf="0.999975">
+            <Unicode>ab</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line1_Word12">
+          <Property conf="0.999134" key="category" value="name"/>
+          <Property conf="0.999134" key="person" value="wife"/>
+          <Coords points="1898.68,2119.26 2009.62,2119.26 2009.62,2205.93 1898.68,2205.93"/>
+          <TextEquiv conf="0.999134">
+            <Unicode>Mag</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record7_Line2">
+        <Coords points="413,2221.49 1748,2221.49 1748,2309.55 413,2309.55"/>
+        <Word id="Record7_Line2_Word0">
+          <Property conf="0.337474" key="category" value="state"/>
+          <Property conf="0.337474" key="person" value="wife"/>
+          <Coords points="422.39,2221.49 572.637,2221.49 572.637,2309.55 422.39,2309.55"/>
+          <TextEquiv conf="0.337474">
+            <Unicode>dalena</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line2_Word1">
+          <Property conf="0.976646" key="category" value="state"/>
+          <Property conf="0.976646" key="person" value="wife"/>
+          <Coords points="597.678,2221.49 722.883,2221.49 722.883,2309.55 597.678,2309.55"/>
+          <TextEquiv conf="0.976646">
+            <Unicode>viuda</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line2_Word2">
+          <Property conf="0.999968" key="category" value="other"/>
+          <Property conf="0.999968" key="person" value="none"/>
+          <Coords points="760.444,2221.49 798.006,2221.49 798.006,2309.55 760.444,2309.55"/>
+          <TextEquiv conf="0.999968">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line2_Word3">
+          <Property conf="0.988581" key="category" value="name"/>
+          <Property conf="0.988581" key="person" value="other_person"/>
+          <Coords points="823.047,2221.49 848.088,2221.49 848.088,2309.55 823.047,2309.55"/>
+          <TextEquiv conf="0.988581">
+            <Unicode>t</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line2_Word4">
+          <Property conf="0.979001" key="category" value="surname"/>
+          <Property conf="0.979001" key="person" value="other_person"/>
+          <Coords points="935.732,2221.49 1060.94,2221.49 1060.94,2309.55 935.732,2309.55"/>
+          <TextEquiv conf="0.979001">
+            <Unicode>Llovi</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line2_Word5">
+          <Property conf="0.988324" key="category" value="occupation"/>
+          <Property conf="0.988324" key="person" value="wife"/>
+          <Coords points="1073.46,2221.49 1286.31,2221.49 1286.31,2309.55 1073.46,2309.55"/>
+          <TextEquiv conf="0.988324">
+            <Unicode>negociant</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line2_Word6">
+          <Property conf="0.99982" key="category" value="other"/>
+          <Property conf="0.99982" key="person" value="none"/>
+          <Coords points="1312.91,2221.49 1500.72,2221.49 1500.72,2309.55 1312.91,2309.55"/>
+          <TextEquiv conf="0.99982">
+            <Unicode>habitant</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line2_Word7">
+          <Property conf="0.999823" key="category" value="other"/>
+          <Property conf="0.999823" key="person" value="none"/>
+          <Coords points="1525.76,2221.49 1550.8,2221.49 1550.8,2309.55 1525.76,2309.55"/>
+          <TextEquiv conf="0.999823">
+            <Unicode>en</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record7_Line2_Word8">
+          <Property conf="0.997903" key="category" value="location"/>
+          <Property conf="0.997903" key="person" value="wife"/>
+          <Coords points="1575.84,2221.49 1738.61,2221.49 1738.61,2309.55 1575.84,2309.55"/>
+          <TextEquiv conf="0.997903">
+            <Unicode>Bara</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Record8">
+      <Coords points="396,2318.71 2034,2318.71 2034,2596.8 396,2596.8"/>
+      <TextLine id="Record8_Line0">
+        <Coords points="396,2318.71 2034,2318.71 2034,2399.86 396,2399.86"/>
+        <Word id="Record8_Line0_Word0">
+          <Property conf="0.999041" key="category" value="other"/>
+          <Property conf="0.999041" key="person" value="none"/>
+          <Coords points="415.467,2318.71 482.211,2318.71 482.211,2399.86 415.467,2399.86"/>
+          <TextEquiv conf="0.999041">
+            <Unicode>Dit</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line0_Word1">
+          <Property conf="0.999885" key="category" value="other"/>
+          <Property conf="0.999885" key="person" value="none"/>
+          <Coords points="504.458,2318.71 548.954,2318.71 548.954,2399.86 504.458,2399.86"/>
+          <TextEquiv conf="0.999885">
+            <Unicode>dia</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line0_Word2">
+          <Property conf="0.999957" key="category" value="other"/>
+          <Property conf="0.999957" key="person" value="none"/>
+          <Coords points="582.326,2318.71 704.689,2318.71 704.689,2399.86 582.326,2399.86"/>
+          <TextEquiv conf="0.999957">
+            <Unicode>rebere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line0_Word3">
+          <Property conf="0.999951" key="category" value="other"/>
+          <Property conf="0.999951" key="person" value="none"/>
+          <Coords points="738.061,2318.71 771.433,2318.71 771.433,2399.86 738.061,2399.86"/>
+          <TextEquiv conf="0.999951">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line0_Word4">
+          <Property conf="0.999834" key="category" value="name"/>
+          <Property conf="0.999834" key="person" value="husband"/>
+          <Coords points="793.681,2318.71 882.672,2318.71 882.672,2399.86 793.681,2399.86"/>
+          <TextEquiv conf="0.999834">
+            <Unicode>Pau</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line0_Word5">
+          <Property conf="0.993995" key="category" value="surname"/>
+          <Property conf="0.993995" key="person" value="husband"/>
+          <Coords points="904.92,2318.71 1094.03,2318.71 1094.03,2399.86 904.92,2399.86"/>
+          <TextEquiv conf="0.993995">
+            <Unicode>Ameller</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line0_Word6">
+          <Property conf="0.999807" key="category" value="occupation"/>
+          <Property conf="0.999807" key="person" value="husband"/>
+          <Coords points="1116.28,2318.71 1294.26,2318.71 1294.26,2399.86 1116.28,2399.86"/>
+          <TextEquiv conf="0.999807">
+            <Unicode>parayre</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line0_Word7">
+          <Property conf="0.999716" key="category" value="other"/>
+          <Property conf="0.999716" key="person" value="none"/>
+          <Coords points="1316.51,2318.71 1361,2318.71 1361,2399.86 1316.51,2399.86"/>
+          <TextEquiv conf="0.999716">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line0_Word8">
+          <Property conf="0.998376" key="category" value="location"/>
+          <Property conf="0.998376" key="person" value="husband"/>
+          <Coords points="1372.13,2318.71 1516.74,2318.71 1516.74,2399.86 1372.13,2399.86"/>
+          <TextEquiv conf="0.998376">
+            <Unicode>Caldes</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line0_Word9">
+          <Property conf="0.998925" key="category" value="location"/>
+          <Property conf="0.998925" key="person" value="husband"/>
+          <Coords points="1538.98,2318.71 1594.6,2318.71 1594.6,2399.86 1538.98,2399.86"/>
+          <TextEquiv conf="0.998925">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line0_Word10">
+          <Property conf="0.979425" key="category" value="location"/>
+          <Property conf="0.979425" key="person" value="husband"/>
+          <Coords points="1616.85,2318.71 1794.84,2318.71 1794.84,2399.86 1616.85,2399.86"/>
+          <TextEquiv conf="0.979425">
+            <Unicode>Monbuy</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line0_Word11">
+          <Property conf="0.999703" key="category" value="state"/>
+          <Property conf="0.999703" key="person" value="husband"/>
+          <Coords points="1805.96,2318.71 1917.2,2318.71 1917.2,2399.86 1805.96,2399.86"/>
+          <TextEquiv conf="0.999703">
+            <Unicode>viudo</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line0_Word12">
+          <Property conf="0.99995" key="category" value="other"/>
+          <Property conf="0.99995" key="person" value="none"/>
+          <Coords points="1950.57,2318.71 1995.07,2318.71 1995.07,2399.86 1950.57,2399.86"/>
+          <TextEquiv conf="0.99995">
+            <Unicode>ab</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record8_Line1">
+        <Coords points="425,2415.23 2024,2415.23 2024,2506.93 425,2506.93"/>
+        <Word id="Record8_Line1_Word0">
+          <Property conf="0.999787" key="category" value="name"/>
+          <Property conf="0.999787" key="person" value="wife"/>
+          <Coords points="409.308,2415.23 661.947,2415.23 661.947,2506.93 409.308,2506.93"/>
+          <TextEquiv conf="0.999787">
+            <Unicode>Margarida</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line1_Word1">
+          <Property conf="0.9993" key="category" value="state"/>
+          <Property conf="0.9993" key="person" value="wife"/>
+          <Coords points="699.607,2415.23 875.356,2415.23 875.356,2506.93 699.607,2506.93"/>
+          <TextEquiv conf="0.9993">
+            <Unicode>donsella</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line1_Word2">
+          <Property conf="0.998334" key="category" value="other"/>
+          <Property conf="0.998334" key="person" value="none"/>
+          <Coords points="900.463,2415.23 1013.44,2415.23 1013.44,2506.93 900.463,2506.93"/>
+          <TextEquiv conf="0.998334">
+            <Unicode>filla</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line1_Word3">
+          <Property conf="0.999982" key="category" value="other"/>
+          <Property conf="0.999982" key="person" value="none"/>
+          <Coords points="1038.55,2415.23 1076.21,2415.23 1076.21,2506.93 1038.55,2506.93"/>
+          <TextEquiv conf="0.999982">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line1_Word4">
+          <Property conf="0.999751" key="category" value="name"/>
+          <Property conf="0.999751" key="person" value="wifes_father"/>
+          <Coords points="1101.32,2415.23 1302.17,2415.23 1302.17,2506.93 1101.32,2506.93"/>
+          <TextEquiv conf="0.999751">
+            <Unicode>Bernat</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line1_Word5">
+          <Property conf="0.999366" key="category" value="surname"/>
+          <Property conf="0.999366" key="person" value="wifes_father"/>
+          <Coords points="1327.28,2415.23 1490.48,2415.23 1490.48,2506.93 1327.28,2506.93"/>
+          <TextEquiv conf="0.999366">
+            <Unicode>Trull</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line1_Word6">
+          <Property conf="0.998151" key="category" value="occupation"/>
+          <Property conf="0.998151" key="person" value="wifes_father"/>
+          <Coords points="1503.03,2415.23 1678.78,2415.23 1678.78,2506.93 1503.03,2506.93"/>
+          <TextEquiv conf="0.998151">
+            <Unicode>parayre</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line1_Word7">
+          <Property conf="0.999502" key="category" value="other"/>
+          <Property conf="0.999502" key="person" value="none"/>
+          <Coords points="1716.44,2415.23 1766.65,2415.23 1766.65,2506.93 1716.44,2506.93"/>
+          <TextEquiv conf="0.999502">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line1_Word8">
+          <Property conf="0.998552" key="category" value="location"/>
+          <Property conf="0.998552" key="person" value="wifes_father"/>
+          <Coords points="1779.21,2415.23 1929.85,2415.23 1929.85,2506.93 1779.21,2506.93"/>
+          <TextEquiv conf="0.998552">
+            <Unicode>Caldes</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line1_Word9">
+          <Property conf="0.999992" key="category" value="other"/>
+          <Property conf="0.999992" key="person" value="none"/>
+          <Coords points="1967.51,2415.23 2005.17,2415.23 2005.17,2506.93 1967.51,2506.93"/>
+          <TextEquiv conf="0.999992">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record8_Line2">
+        <Coords points="431,2511.97 912,2511.97 912,2596.8 431,2596.8"/>
+        <Word id="Record8_Line2_Word0">
+          <Property conf="0.999981" key="category" value="other"/>
+          <Property conf="0.999981" key="person" value="none"/>
+          <Coords points="428.094,2511.97 474.595,2511.97 474.595,2596.8 428.094,2596.8"/>
+          <TextEquiv conf="0.999981">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line2_Word1">
+          <Property conf="0.996294" key="category" value="name"/>
+          <Property conf="0.996294" key="person" value="wifes_mother"/>
+          <Coords points="497.846,2511.97 672.227,2511.97 672.227,2596.8 497.846,2596.8"/>
+          <TextEquiv conf="0.996294">
+            <Unicode>Eleonor</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record8_Line2_Word2">
+          <Property conf="0.972932" key="category" value="other"/>
+          <Property conf="0.972932" key="person" value="none"/>
+          <Coords points="695.477,2511.97 881.483,2511.97 881.483,2596.8 695.477,2596.8"/>
+          <TextEquiv conf="0.972932">
+            <Unicode>defuncta</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Record9">
+      <Coords points="400,2574.78 2069,2574.78 2069,2853.98 400,2853.98"/>
+      <TextLine id="Record9_Line0">
+        <Coords points="400,2574.78 2069,2574.78 2069,2663.96 400,2663.96"/>
+        <Word id="Record9_Line0_Word0">
+          <Property conf="0.997851" key="category" value="other"/>
+          <Property conf="0.997851" key="person" value="none"/>
+          <Coords points="422.467,2574.78 486.66,2574.78 486.66,2663.96 422.467,2663.96"/>
+          <TextEquiv conf="0.997851">
+            <Unicode>Dit</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line0_Word1">
+          <Property conf="0.999583" key="category" value="other"/>
+          <Property conf="0.999583" key="person" value="none"/>
+          <Coords points="512.337,2574.78 576.529,2574.78 576.529,2663.96 512.337,2663.96"/>
+          <TextEquiv conf="0.999583">
+            <Unicode>dia</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line0_Word2">
+          <Property conf="0.999882" key="category" value="other"/>
+          <Property conf="0.999882" key="person" value="none"/>
+          <Coords points="602.206,2574.78 730.59,2574.78 730.59,2663.96 602.206,2663.96"/>
+          <TextEquiv conf="0.999882">
+            <Unicode>rebere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line0_Word3">
+          <Property conf="0.99726" key="category" value="other"/>
+          <Property conf="0.99726" key="person" value="none"/>
+          <Coords points="756.267,2574.78 794.783,2574.78 794.783,2663.96 756.267,2663.96"/>
+          <TextEquiv conf="0.99726">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line0_Word4">
+          <Property conf="0.999048" key="category" value="name"/>
+          <Property conf="0.999048" key="person" value="husband"/>
+          <Coords points="807.621,2574.78 1078.83,2574.78 1078.83,2663.96 807.621,2663.96"/>
+          <TextEquiv conf="0.999048">
+            <Unicode>Barthomeu</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line0_Word5">
+          <Property conf="0.996763" key="category" value="surname"/>
+          <Property conf="0.996763" key="person" value="husband"/>
+          <Coords points="1117.35,2574.78 1309.93,2574.78 1309.93,2663.96 1117.35,2663.96"/>
+          <TextEquiv conf="0.996763">
+            <Unicode>Castells</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line0_Word6">
+          <Property conf="0.999696" key="category" value="occupation"/>
+          <Property conf="0.999696" key="person" value="husband"/>
+          <Coords points="1322.76,2574.78 1502.5,2574.78 1502.5,2663.96 1322.76,2663.96"/>
+          <TextEquiv conf="0.999696">
+            <Unicode>parayre</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line0_Word7">
+          <Property conf="0.999866" key="category" value="other"/>
+          <Property conf="0.999866" key="person" value="none"/>
+          <Coords points="1528.18,2574.78 1566.7,2574.78 1566.7,2663.96 1528.18,2663.96"/>
+          <TextEquiv conf="0.999866">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line0_Word8">
+          <Property conf="0.462112" key="category" value="location"/>
+          <Property conf="0.462112" key="person" value="husband"/>
+          <Coords points="1579.53,2574.78 1630.89,2574.78 1630.89,2663.96 1579.53,2663.96"/>
+          <TextEquiv conf="0.462112">
+            <Unicode>la</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line0_Word9">
+          <Property conf="0.997871" key="category" value="location"/>
+          <Property conf="0.997871" key="person" value="husband"/>
+          <Coords points="1656.56,2574.78 1797.79,2574.78 1797.79,2663.96 1656.56,2663.96"/>
+          <TextEquiv conf="0.997871">
+            <Unicode>Pobla</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line0_Word10">
+          <Property conf="0.977383" key="category" value="location"/>
+          <Property conf="0.977383" key="person" value="husband"/>
+          <Coords points="1825.07,2574.78 1876.42,2574.78 1876.42,2663.96 1825.07,2663.96"/>
+          <TextEquiv conf="0.977383">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line0_Word11">
+          <Property conf="0.561157" key="category" value="location"/>
+          <Property conf="0.561157" key="person" value="husband"/>
+          <Coords points="1889.26,2574.78 2120.35,2574.78 2120.35,2663.96 1889.26,2663.96"/>
+          <TextEquiv conf="0.561157">
+            <Unicode>Claramus</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record9_Line1">
+        <Coords points="400,2677.42 1997,2677.42 1997,2772.28 400,2772.28"/>
+        <Word id="Record9_Line1_Word0">
+          <Property conf="0.998374" key="category" value="other"/>
+          <Property conf="0.998374" key="person" value="none"/>
+          <Coords points="498.854,2677.42 594.299,2677.42 594.299,2772.28 498.854,2772.28"/>
+          <TextEquiv conf="0.998374">
+            <Unicode>fill</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line1_Word1">
+          <Property conf="0.999868" key="category" value="other"/>
+          <Property conf="0.999868" key="person" value="none"/>
+          <Coords points="621.569,2677.42 648.839,2677.42 648.839,2772.28 621.569,2772.28"/>
+          <TextEquiv conf="0.999868">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line1_Word2">
+          <Property conf="0.999816" key="category" value="name"/>
+          <Property conf="0.999816" key="person" value="husbands_father"/>
+          <Coords points="662.474,2677.42 771.554,2677.42 771.554,2772.28 662.474,2772.28"/>
+          <TextEquiv conf="0.999816">
+            <Unicode>Pere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line1_Word3">
+          <Property conf="0.537548" key="category" value="surname"/>
+          <Property conf="0.537548" key="person" value="husbands_father"/>
+          <Coords points="785.189,2677.42 948.809,2677.42 948.809,2772.28 785.189,2772.28"/>
+          <TextEquiv conf="0.537548">
+            <Unicode>Castels</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line1_Word4">
+          <Property conf="0.998153" key="category" value="occupation"/>
+          <Property conf="0.998153" key="person" value="husbands_father"/>
+          <Coords points="962.444,2677.42 1085.16,2677.42 1085.16,2772.28 962.444,2772.28"/>
+          <TextEquiv conf="0.998153">
+            <Unicode>pages</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line1_Word5">
+          <Property conf="0.999993" key="category" value="other"/>
+          <Property conf="0.999993" key="person" value="none"/>
+          <Coords points="1114.13,2677.42 1127.77,2677.42 1127.77,2772.28 1114.13,2772.28"/>
+          <TextEquiv conf="0.999993">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line1_Word6">
+          <Property conf="0.99993" key="category" value="other"/>
+          <Property conf="0.99993" key="person" value="none"/>
+          <Coords points="1155.04,2677.42 1182.31,2677.42 1182.31,2772.28 1155.04,2772.28"/>
+          <TextEquiv conf="0.99993">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line1_Word7">
+          <Property conf="0.999401" key="category" value="name"/>
+          <Property conf="0.999401" key="person" value="husbands_mother"/>
+          <Coords points="1195.94,2677.42 1441.37,2677.42 1441.37,2772.28 1195.94,2772.28"/>
+          <TextEquiv conf="0.999401">
+            <Unicode>Hieronyma</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line1_Word8">
+          <Property conf="0.999969" key="category" value="other"/>
+          <Property conf="0.999969" key="person" value="none"/>
+          <Coords points="1482.28,2677.42 1523.18,2677.42 1523.18,2772.28 1482.28,2772.28"/>
+          <TextEquiv conf="0.999969">
+            <Unicode>ab</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line1_Word9">
+          <Property conf="0.984483" key="category" value="name"/>
+          <Property conf="0.984483" key="person" value="wife"/>
+          <Coords points="1536.82,2677.42 1768.61,2677.42 1768.61,2772.28 1536.82,2772.28"/>
+          <TextEquiv conf="0.984483">
+            <Unicode>Hieronyma</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line1_Word10">
+          <Property conf="0.999004" key="category" value="state"/>
+          <Property conf="0.999004" key="person" value="wife"/>
+          <Coords points="1782.25,2677.42 1959.5,2677.42 1959.5,2772.28 1782.25,2772.28"/>
+          <TextEquiv conf="0.999004">
+            <Unicode>donsella</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record9_Line2">
+        <Coords points="419,2768.41 1844,2768.41 1844,2853.98 419,2853.98"/>
+        <Word id="Record9_Line2_Word0">
+          <Property conf="0.998772" key="category" value="other"/>
+          <Property conf="0.998772" key="person" value="none"/>
+          <Coords points="400.514,2768.41 500.649,2768.41 500.649,2853.98 400.514,2853.98"/>
+          <TextEquiv conf="0.998772">
+            <Unicode>filla</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line2_Word1">
+          <Property conf="0.99987" key="category" value="other"/>
+          <Property conf="0.99987" key="person" value="none"/>
+          <Coords points="525.297,2768.41 562.27,2768.41 562.27,2853.98 525.297,2853.98"/>
+          <TextEquiv conf="0.99987">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line2_Word2">
+          <Property conf="0.999688" key="category" value="name"/>
+          <Property conf="0.999688" key="person" value="wifes_father"/>
+          <Coords points="574.595,2768.41 722.487,2768.41 722.487,2853.98 574.595,2853.98"/>
+          <TextEquiv conf="0.999688">
+            <Unicode>jaume</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line2_Word3">
+          <Property conf="0.97667" key="category" value="surname"/>
+          <Property conf="0.97667" key="person" value="wifes_father"/>
+          <Coords points="734.811,2768.41 821.081,2768.41 821.081,2853.98 734.811,2853.98"/>
+          <TextEquiv conf="0.97667">
+            <Unicode>Deu</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line2_Word4">
+          <Property conf="0.995003" key="category" value="occupation"/>
+          <Property conf="0.995003" key="person" value="wifes_father"/>
+          <Coords points="858.054,2768.41 1055.24,2768.41 1055.24,2853.98 858.054,2853.98"/>
+          <TextEquiv conf="0.995003">
+            <Unicode>baxador</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line2_Word5">
+          <Property conf="0.991086" key="category" value="other"/>
+          <Property conf="0.991086" key="person" value="none"/>
+          <Coords points="1079.89,2768.41 1116.86,2768.41 1116.86,2853.98 1079.89,2853.98"/>
+          <TextEquiv conf="0.991086">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line2_Word6">
+          <Property conf="0.999652" key="category" value="location"/>
+          <Property conf="0.999652" key="person" value="wifes_father"/>
+          <Coords points="1141.51,2768.41 1289.41,2768.41 1289.41,2853.98 1141.51,2853.98"/>
+          <TextEquiv conf="0.999652">
+            <Unicode>Bara</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line2_Word7">
+          <Property conf="0.999428" key="category" value="other"/>
+          <Property conf="0.999428" key="person" value="none"/>
+          <Coords points="1301.73,2768.41 1463.49,2768.41 1463.49,2853.98 1301.73,2853.98"/>
+          <TextEquiv conf="0.999428">
+            <Unicode>defunct</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line2_Word8">
+          <Property conf="0.999991" key="category" value="other"/>
+          <Property conf="0.999991" key="person" value="none"/>
+          <Coords points="1488.14,2768.41 1512.78,2768.41 1512.78,2853.98 1488.14,2853.98"/>
+          <TextEquiv conf="0.999991">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line2_Word9">
+          <Property conf="0.999746" key="category" value="other"/>
+          <Property conf="0.999746" key="person" value="none"/>
+          <Coords points="1537.43,2768.41 1562.08,2768.41 1562.08,2853.98 1537.43,2853.98"/>
+          <TextEquiv conf="0.999746">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record9_Line2_Word10">
+          <Property conf="0.999266" key="category" value="name"/>
+          <Property conf="0.999266" key="person" value="wifes_mother"/>
+          <Coords points="1586.73,2768.41 1833.22,2768.41 1833.22,2853.98 1586.73,2853.98"/>
+          <TextEquiv conf="0.999266">
+            <Unicode>Hieronyma</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Record10">
+      <Coords points="394,2868.36 2057,2868.36 2057,3139.99 394,3139.99"/>
+      <TextLine id="Record10_Line0">
+        <Coords points="394,2868.36 2057,2868.36 2057,2952.09 394,2952.09"/>
+        <Word id="Record10_Line0_Word0">
+          <Property conf="0.99952" key="category" value="other"/>
+          <Property conf="0.99952" key="person" value="none"/>
+          <Coords points="414.369,2868.36 612.241,2868.36 612.241,2952.09 414.369,2952.09"/>
+          <TextEquiv conf="0.99952">
+            <Unicode>Diumenge</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line0_Word1">
+          <Property conf="0.999863" key="category" value="other"/>
+          <Property conf="0.999863" key="person" value="none"/>
+          <Coords points="635.521,2868.36 658.8,2868.36 658.8,2952.09 635.521,2952.09"/>
+          <TextEquiv conf="0.999863">
+            <Unicode>a</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line0_Word2">
+          <Property conf="0.997462" key="category" value="other"/>
+          <Property conf="0.997462" key="person" value="none"/>
+          <Coords points="693.718,2868.36 741.731,2868.36 741.731,2952.09 693.718,2952.09"/>
+          <TextEquiv conf="0.997462">
+            <Unicode>23</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line0_Word3">
+          <Property conf="0.998475" key="category" value="other"/>
+          <Property conf="0.998475" key="person" value="none"/>
+          <Coords points="776.65,2868.36 893.045,2868.36 893.045,2952.09 776.65,2952.09"/>
+          <TextEquiv conf="0.998475">
+            <Unicode>rebere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line0_Word4">
+          <Property conf="0.99951" key="category" value="other"/>
+          <Property conf="0.99951" key="person" value="none"/>
+          <Coords points="927.964,2868.36 962.883,2868.36 962.883,2952.09 927.964,2952.09"/>
+          <TextEquiv conf="0.99951">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line0_Word5">
+          <Property conf="0.99678" key="category" value="name"/>
+          <Property conf="0.99678" key="person" value="husband"/>
+          <Coords points="986.162,2868.36 1125.84,2868.36 1125.84,2952.09 986.162,2952.09"/>
+          <TextEquiv conf="0.99678">
+            <Unicode>Vicens</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line0_Word6">
+          <Property conf="0.998605" key="category" value="surname"/>
+          <Property conf="0.998605" key="person" value="husband"/>
+          <Coords points="1149.12,2868.36 1312.07,2868.36 1312.07,2952.09 1149.12,2952.09"/>
+          <TextEquiv conf="0.998605">
+            <Unicode>Castells</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line0_Word7">
+          <Property conf="0.999387" key="category" value="occupation"/>
+          <Property conf="0.999387" key="person" value="husband"/>
+          <Coords points="1323.71,2868.36 1499.76,2868.36 1499.76,2952.09 1323.71,2952.09"/>
+          <TextEquiv conf="0.999387">
+            <Unicode>parayre</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line0_Word8">
+          <Property conf="0.998171" key="category" value="other"/>
+          <Property conf="0.998171" key="person" value="none"/>
+          <Coords points="1534.68,2868.36 1569.59,2868.36 1569.59,2952.09 1534.68,2952.09"/>
+          <TextEquiv conf="0.998171">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line0_Word9">
+          <Property conf="0.999828" key="category" value="location"/>
+          <Property conf="0.999828" key="person" value="husband"/>
+          <Coords points="1592.87,2868.36 1720.91,2868.36 1720.91,2952.09 1592.87,2952.09"/>
+          <TextEquiv conf="0.999828">
+            <Unicode>Bara</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line0_Word10">
+          <Property conf="0.999406" key="category" value="other"/>
+          <Property conf="0.999406" key="person" value="none"/>
+          <Coords points="1732.55,2868.36 1825.66,2868.36 1825.66,2952.09 1732.55,2952.09"/>
+          <TextEquiv conf="0.999406">
+            <Unicode>fill</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line0_Word11">
+          <Property conf="0.998437" key="category" value="other"/>
+          <Property conf="0.998437" key="person" value="none"/>
+          <Coords points="1848.94,2868.36 1883.86,2868.36 1883.86,2952.09 1848.94,2952.09"/>
+          <TextEquiv conf="0.998437">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line0_Word12">
+          <Property conf="0.997189" key="category" value="name"/>
+          <Property conf="0.997189" key="person" value="husbands_father"/>
+          <Coords points="1895.5,2868.36 2023.54,2868.36 2023.54,2952.09 1895.5,2952.09"/>
+          <TextEquiv conf="0.997189">
+            <Unicode>Auge</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record10_Line1">
+        <Coords points="423,2956.68 2032,2956.68 2032,3047.67 423,3047.67"/>
+        <Word id="Record10_Line1_Word0">
+          <Property conf="0.99873" key="category" value="surname"/>
+          <Property conf="0.99873" key="person" value="husbands_father"/>
+          <Coords points="389.808,2956.68 568.411,2956.68 568.411,3047.67 389.808,3047.67"/>
+          <TextEquiv conf="0.99873">
+            <Unicode>Castells</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line1_Word1">
+          <Property conf="0.999708" key="category" value="occupation"/>
+          <Property conf="0.999708" key="person" value="husbands_father"/>
+          <Coords points="593.699,2956.68 770.721,2956.68 770.721,3047.67 593.699,3047.67"/>
+          <TextEquiv conf="0.999708">
+            <Unicode>parayre</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line1_Word2">
+          <Property conf="0.999973" key="category" value="other"/>
+          <Property conf="0.999973" key="person" value="none"/>
+          <Coords points="808.654,2956.68 833.943,2956.68 833.943,3047.67 808.654,3047.67"/>
+          <TextEquiv conf="0.999973">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line1_Word3">
+          <Property conf="0.999943" key="category" value="other"/>
+          <Property conf="0.999943" key="person" value="none"/>
+          <Coords points="871.876,2956.68 909.809,2956.68 909.809,3047.67 871.876,3047.67"/>
+          <TextEquiv conf="0.999943">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line1_Word4">
+          <Property conf="0.99954" key="category" value="name"/>
+          <Property conf="0.99954" key="person" value="husbands_mother"/>
+          <Coords points="922.454,2956.68 1061.54,2956.68 1061.54,3047.67 922.454,3047.67"/>
+          <TextEquiv conf="0.99954">
+            <Unicode>Anna</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line1_Word5">
+          <Property conf="0.999949" key="category" value="other"/>
+          <Property conf="0.999949" key="person" value="none"/>
+          <Coords points="1099.48,2956.68 1150.05,2956.68 1150.05,3047.67 1099.48,3047.67"/>
+          <TextEquiv conf="0.999949">
+            <Unicode>ab</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line1_Word6">
+          <Property conf="0.999828" key="category" value="name"/>
+          <Property conf="0.999828" key="person" value="wife"/>
+          <Coords points="1176.92,2956.68 1442.45,2956.68 1442.45,3047.67 1176.92,3047.67"/>
+          <TextEquiv conf="0.999828">
+            <Unicode>Margarida</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line1_Word7">
+          <Property conf="0.998865" key="category" value="state"/>
+          <Property conf="0.998865" key="person" value="wife"/>
+          <Coords points="1467.74,2956.68 1619.48,2956.68 1619.48,3047.67 1467.74,3047.67"/>
+          <TextEquiv conf="0.998865">
+            <Unicode>dosella</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line1_Word8">
+          <Property conf="0.999474" key="category" value="other"/>
+          <Property conf="0.999474" key="person" value="none"/>
+          <Coords points="1644.77,2956.68 1745.92,2956.68 1745.92,3047.67 1644.77,3047.67"/>
+          <TextEquiv conf="0.999474">
+            <Unicode>filla</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line1_Word9">
+          <Property conf="0.997463" key="category" value="other"/>
+          <Property conf="0.997463" key="person" value="none"/>
+          <Coords points="1771.21,2956.68 1809.14,2956.68 1809.14,3047.67 1771.21,3047.67"/>
+          <TextEquiv conf="0.997463">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line1_Word10">
+          <Property conf="0.999715" key="category" value="name"/>
+          <Property conf="0.999715" key="person" value="wifes_father"/>
+          <Coords points="1821.79,2956.68 1937.17,2956.68 1937.17,3047.67 1821.79,3047.67"/>
+          <TextEquiv conf="0.999715">
+            <Unicode>Pere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line1_Word11">
+          <Property conf="0.987204" key="category" value="surname"/>
+          <Property conf="0.987204" key="person" value="wifes_father"/>
+          <Coords points="1962.46,2956.68 2025.68,2956.68 2025.68,3047.67 1962.46,3047.67"/>
+          <TextEquiv conf="0.987204">
+            <Unicode>Go</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record10_Line2">
+        <Coords points="421,3048.97 1351,3048.97 1351,3139.99 421,3139.99"/>
+        <Word id="Record10_Line2_Word0">
+          <Property conf="0.571791" key="category" value="surname"/>
+          <Property conf="0.571791" key="person" value="wifes_father"/>
+          <Coords points="405.211,3048.97 556.789,3048.97 556.789,3139.99 405.211,3139.99"/>
+          <TextEquiv conf="0.571791">
+            <Unicode>lorons</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line2_Word1">
+          <Property conf="0.998723" key="category" value="occupation"/>
+          <Property conf="0.998723" key="person" value="wifes_father"/>
+          <Coords points="569.421,3048.97 758.895,3048.97 758.895,3139.99 569.421,3139.99"/>
+          <TextEquiv conf="0.998723">
+            <Unicode>parayre</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line2_Word2">
+          <Property conf="0.999213" key="category" value="other"/>
+          <Property conf="0.999213" key="person" value="none"/>
+          <Coords points="784.158,3048.97 822.053,3048.97 822.053,3139.99 784.158,3139.99"/>
+          <TextEquiv conf="0.999213">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line2_Word3">
+          <Property conf="0.999672" key="category" value="location"/>
+          <Property conf="0.999672" key="person" value="wifes_father"/>
+          <Coords points="834.684,3048.97 986.263,3048.97 986.263,3139.99 834.684,3139.99"/>
+          <TextEquiv conf="0.999672">
+            <Unicode>Bara</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line2_Word4">
+          <Property conf="0.999835" key="category" value="other"/>
+          <Property conf="0.999835" key="person" value="none"/>
+          <Coords points="1000.47,3048.97 1025.74,3048.97 1025.74,3139.99 1000.47,3139.99"/>
+          <TextEquiv conf="0.999835">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line2_Word5">
+          <Property conf="0.999789" key="category" value="other"/>
+          <Property conf="0.999789" key="person" value="none"/>
+          <Coords points="1051,3048.97 1088.89,3048.97 1088.89,3139.99 1051,3139.99"/>
+          <TextEquiv conf="0.999789">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record10_Line2_Word6">
+          <Property conf="0.9503" key="category" value="name"/>
+          <Property conf="0.9503" key="person" value="wifes_mother"/>
+          <Coords points="1114.16,3048.97 1341.53,3048.97 1341.53,3139.99 1114.16,3139.99"/>
+          <TextEquiv conf="0.9503">
+            <Unicode>Esperanca</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Record11">
+      <Coords points="392,3147.91 2036,3147.91 2036,3417.56 392,3417.56"/>
+      <TextLine id="Record11_Line0">
+        <Coords points="392,3147.91 2020,3147.91 2020,3225.04 392,3225.04"/>
+        <Word id="Record11_Line0_Word0">
+          <Property conf="0.995511" key="category" value="other"/>
+          <Property conf="0.995511" key="person" value="none"/>
+          <Coords points="410.032,3147.91 471.854,3147.91 471.854,3225.04 410.032,3225.04"/>
+          <TextEquiv conf="0.995511">
+            <Unicode>Dit</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line0_Word1">
+          <Property conf="0.999913" key="category" value="other"/>
+          <Property conf="0.999913" key="person" value="none"/>
+          <Coords points="492.462,3147.91 543.981,3147.91 543.981,3225.04 492.462,3225.04"/>
+          <TextEquiv conf="0.999913">
+            <Unicode>dia</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line0_Word2">
+          <Property conf="0.999977" key="category" value="other"/>
+          <Property conf="0.999977" key="person" value="none"/>
+          <Coords points="574.892,3147.91 698.538,3147.91 698.538,3225.04 574.892,3225.04"/>
+          <TextEquiv conf="0.999977">
+            <Unicode>rebere</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line0_Word3">
+          <Property conf="0.999568" key="category" value="other"/>
+          <Property conf="0.999568" key="person" value="none"/>
+          <Coords points="729.449,3147.91 770.665,3147.91 770.665,3225.04 729.449,3225.04"/>
+          <TextEquiv conf="0.999568">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line0_Word4">
+          <Property conf="0.999102" key="category" value="name"/>
+          <Property conf="0.999102" key="person" value="husband"/>
+          <Coords points="791.272,3147.91 914.918,3147.91 914.918,3225.04 791.272,3225.04"/>
+          <TextEquiv conf="0.999102">
+            <Unicode>Denis</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line0_Word5">
+          <Property conf="0.958037" key="category" value="surname"/>
+          <Property conf="0.958037" key="person" value="husband"/>
+          <Coords points="945.829,3147.91 1141.6,3147.91 1141.6,3225.04 945.829,3225.04"/>
+          <TextEquiv conf="0.958037">
+            <Unicode>Audivert</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line0_Word6">
+          <Property conf="0.999875" key="category" value="occupation"/>
+          <Property conf="0.999875" key="person" value="husband"/>
+          <Coords points="1172.51,3147.91 1285.85,3147.91 1285.85,3225.04 1172.51,3225.04"/>
+          <TextEquiv conf="0.999875">
+            <Unicode>pages</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line0_Word7">
+          <Property conf="0.999324" key="category" value="other"/>
+          <Property conf="0.999324" key="person" value="none"/>
+          <Coords points="1316.77,3147.91 1378.59,3147.91 1378.59,3225.04 1316.77,3225.04"/>
+          <TextEquiv conf="0.999324">
+            <Unicode>del</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line0_Word8">
+          <Property conf="0.999875" key="category" value="location"/>
+          <Property conf="0.999875" key="person" value="husband"/>
+          <Coords points="1399.2,3147.91 1513.83,3147.91 1513.83,3225.04 1399.2,3225.04"/>
+          <TextEquiv conf="0.999875">
+            <Unicode>regne</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line0_Word9">
+          <Property conf="0.999547" key="category" value="location"/>
+          <Property conf="0.999547" key="person" value="husband"/>
+          <Coords points="1544.74,3147.91 1585.95,3147.91 1585.95,3225.04 1544.74,3225.04"/>
+          <TextEquiv conf="0.999547">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line0_Word10">
+          <Property conf="0.999822" key="category" value="location"/>
+          <Property conf="0.999822" key="person" value="husband"/>
+          <Coords points="1616.86,3147.91 1761.12,3147.91 1761.12,3225.04 1616.86,3225.04"/>
+          <TextEquiv conf="0.999822">
+            <Unicode>frança</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line0_Word11">
+          <Property conf="0.999904" key="category" value="other"/>
+          <Property conf="0.999904" key="person" value="none"/>
+          <Coords points="1792.03,3147.91 1987.8,3147.91 1987.8,3225.04 1792.03,3225.04"/>
+          <TextEquiv conf="0.999904">
+            <Unicode>habitant</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line0_Word12">
+          <Property conf="0.999888" key="category" value="other"/>
+          <Property conf="0.999888" key="person" value="none"/>
+          <Coords points="2008.41,3147.91 2039.32,3147.91 2039.32,3225.04 2008.41,3225.04"/>
+          <TextEquiv conf="0.999888">
+            <Unicode>en</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record11_Line1">
+        <Coords points="410,3229.98 2036,3229.98 2036,3324.27 410,3324.27"/>
+        <Word id="Record11_Line1_Word0">
+          <Property conf="0.999794" key="category" value="location"/>
+          <Property conf="0.999794" key="person" value="husband"/>
+          <Coords points="474.412,3229.98 625.229,3229.98 625.229,3324.27 474.412,3324.27"/>
+          <TextEquiv conf="0.999794">
+            <Unicode>Bara</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line1_Word1">
+          <Property conf="0.99887" key="category" value="state"/>
+          <Property conf="0.99887" key="person" value="husband"/>
+          <Coords points="637.797,3229.98 763.478,3229.98 763.478,3324.27 637.797,3324.27"/>
+          <TextEquiv conf="0.99887">
+            <Unicode>viudo</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line1_Word2">
+          <Property conf="0.999971" key="category" value="other"/>
+          <Property conf="0.999971" key="person" value="none"/>
+          <Coords points="788.615,3229.98 838.887,3229.98 838.887,3324.27 788.615,3324.27"/>
+          <TextEquiv conf="0.999971">
+            <Unicode>ab</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line1_Word3">
+          <Property conf="0.984599" key="category" value="name"/>
+          <Property conf="0.984599" key="person" value="wife"/>
+          <Coords points="864.023,3229.98 1052.54,3229.98 1052.54,3324.27 864.023,3324.27"/>
+          <TextEquiv conf="0.984599">
+            <Unicode>Susanna</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line1_Word4">
+          <Property conf="0.999232" key="category" value="state"/>
+          <Property conf="0.999232" key="person" value="wife"/>
+          <Coords points="1077.68,3229.98 1253.63,3229.98 1253.63,3324.27 1077.68,3324.27"/>
+          <TextEquiv conf="0.999232">
+            <Unicode>donsella</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line1_Word5">
+          <Property conf="0.977102" key="category" value="other"/>
+          <Property conf="0.977102" key="person" value="none"/>
+          <Coords points="1291.34,3229.98 1379.32,3229.98 1379.32,3324.27 1291.34,3324.27"/>
+          <TextEquiv conf="0.977102">
+            <Unicode>fill</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line1_Word6">
+          <Property conf="0.978759" key="category" value="other"/>
+          <Property conf="0.978759" key="person" value="none"/>
+          <Coords points="1417.02,3229.98 1467.29,3229.98 1467.29,3324.27 1417.02,3324.27"/>
+          <TextEquiv conf="0.978759">
+            <Unicode>del</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line1_Word7">
+          <Property conf="0.812148" key="category" value="location"/>
+          <Property conf="0.812148" key="person" value="husband"/>
+          <Coords points="1479.86,3229.98 1605.54,3229.98 1605.54,3324.27 1479.86,3324.27"/>
+          <TextEquiv conf="0.812148">
+            <Unicode>regne</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line1_Word8">
+          <Property conf="0.994452" key="category" value="location"/>
+          <Property conf="0.994452" key="person" value="husband"/>
+          <Coords points="1630.68,3229.98 1680.95,3229.98 1680.95,3324.27 1630.68,3324.27"/>
+          <TextEquiv conf="0.994452">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line1_Word9">
+          <Property conf="0.99904" key="category" value="location"/>
+          <Property conf="0.99904" key="person" value="husband"/>
+          <Coords points="1706.09,3229.98 1856.9,3229.98 1856.9,3324.27 1706.09,3324.27"/>
+          <TextEquiv conf="0.99904">
+            <Unicode>frança</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line1_Word10">
+          <Property conf="0.996216" key="category" value="other"/>
+          <Property conf="0.996216" key="person" value="none"/>
+          <Coords points="1882.04,3229.98 2045.43,3229.98 2045.43,3324.27 1882.04,3324.27"/>
+          <TextEquiv conf="0.996216">
+            <Unicode>habitat</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Record11_Line2">
+        <Coords points="413,3324.71 1916,3324.71 1916,3417.56 413,3417.56"/>
+        <Word id="Record11_Line2_Word0">
+          <Property conf="0.999949" key="category" value="other"/>
+          <Property conf="0.999949" key="person" value="none"/>
+          <Coords points="450.111,3324.71 487.222,3324.71 487.222,3417.56 450.111,3417.56"/>
+          <TextEquiv conf="0.999949">
+            <Unicode>en</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line2_Word1">
+          <Property conf="0.99948" key="category" value="location"/>
+          <Property conf="0.99948" key="person" value="husband"/>
+          <Coords points="499.593,3324.71 635.667,3324.71 635.667,3417.56 499.593,3417.56"/>
+          <TextEquiv conf="0.99948">
+            <Unicode>Bara</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line2_Word2">
+          <Property conf="0.997463" key="category" value="other"/>
+          <Property conf="0.997463" key="person" value="none"/>
+          <Coords points="661.954,3324.71 773.287,3324.71 773.287,3417.56 661.954,3417.56"/>
+          <TextEquiv conf="0.997463">
+            <Unicode>filla</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line2_Word3">
+          <Property conf="0.99996" key="category" value="other"/>
+          <Property conf="0.99996" key="person" value="none"/>
+          <Coords points="798.028,3324.71 835.139,3324.71 835.139,3417.56 798.028,3417.56"/>
+          <TextEquiv conf="0.99996">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line2_Word4">
+          <Property conf="0.99825" key="category" value="name"/>
+          <Property conf="0.99825" key="person" value="wifes_father"/>
+          <Coords points="859.88,3324.71 995.954,3324.71 995.954,3417.56 859.88,3417.56"/>
+          <TextEquiv conf="0.99825">
+            <Unicode>Guille</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line2_Word5">
+          <Property conf="0.994846" key="category" value="surname"/>
+          <Property conf="0.994846" key="person" value="wifes_father"/>
+          <Coords points="1008.32,3324.71 1193.88,3324.71 1193.88,3417.56 1008.32,3417.56"/>
+          <TextEquiv conf="0.994846">
+            <Unicode>Anglada</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line2_Word6">
+          <Property conf="0.992463" key="category" value="occupation"/>
+          <Property conf="0.992463" key="person" value="wifes_father"/>
+          <Coords points="1218.62,3324.71 1342.32,3324.71 1342.32,3417.56 1218.62,3417.56"/>
+          <TextEquiv conf="0.992463">
+            <Unicode>pages</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line2_Word7">
+          <Property conf="0.999363" key="category" value="other"/>
+          <Property conf="0.999363" key="person" value="none"/>
+          <Coords points="1367.06,3324.71 1527.88,3324.71 1527.88,3417.56 1367.06,3417.56"/>
+          <TextEquiv conf="0.999363">
+            <Unicode>defunct</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line2_Word8">
+          <Property conf="0.999997" key="category" value="other"/>
+          <Property conf="0.999997" key="person" value="none"/>
+          <Coords points="1552.62,3324.71 1577.36,3324.71 1577.36,3417.56 1552.62,3417.56"/>
+          <TextEquiv conf="0.999997">
+            <Unicode>y</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line2_Word9">
+          <Property conf="0.999988" key="category" value="other"/>
+          <Property conf="0.999988" key="person" value="none"/>
+          <Coords points="1602.1,3324.71 1639.21,3324.71 1639.21,3417.56 1602.1,3417.56"/>
+          <TextEquiv conf="0.999988">
+            <Unicode>de</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Record11_Line2_Word10">
+          <Property conf="0.998704" key="category" value="name"/>
+          <Property conf="0.998704" key="person" value="wifes_mother"/>
+          <Coords points="1676.32,3324.71 1898.99,3324.71 1898.99,3417.56 1676.32,3417.56"/>
+          <TextEquiv conf="0.998704">
+            <Unicode>Catherina</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

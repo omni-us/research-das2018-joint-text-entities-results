@@ -1,0 +1,26 @@
+[value=wife] ~ .Coords {
+  fill-opacity: 0.3;
+  fill: green;
+}
+
+[value=husband] ~ .Coords {
+  fill-opacity: 0.3;
+  fill: blue;
+}
+
+[value=wifes_mother] ~ .Coords,
+[value=husbands_mother] ~ .Coords {
+  fill-opacity: 0.3;
+  fill: orange;
+}
+
+[value=wifes_father] ~ .Coords,
+[value=husbands_father] ~ .Coords {
+  fill-opacity: 0.3;
+  fill: red;
+}
+
+[value=other_person] ~ .Coords {
+  fill-opacity: 0.3;
+  fill: magenta;
+}
